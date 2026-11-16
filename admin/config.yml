@@ -1,0 +1,292 @@
+# Decap CMS – trang quản trị nội dung XLINK (/admin)
+backend:
+  name: github
+  repo: Tay-Tran/xlink-landing
+  branch: main
+  base_url: https://v3.xlink-landing.pages.dev
+  auth_endpoint: api/auth
+  commit_messages:
+    update: "Cập nhật nội dung: {{slug}}"
+# chạy thử trên máy: npx decap-server (cùng thư mục repo) rồi mở /admin
+local_backend: true
+locale: vi
+publish_mode: simple
+media_folder: assets/img/uploads
+public_folder: /assets/img/uploads
+collections:
+  - name: noi-dung
+    label: Nội dung trang
+    description: "Sửa chữ tiếng Việt và tiếng Anh theo từng khối. Giữ nguyên các thẻ như <b>…</b>, <br>. Bấm Publish để lưu, trang tự cập nhật sau 1–2 phút."
+    editor:
+      preview: false
+    files:
+      - name: "00-seo"
+        label: "SEO – tiêu đề tab, mô tả khi chia sẻ"
+        file: "content/00-seo.json"
+        fields:
+          - { label: "Khối", name: "khoi", widget: "hidden" }
+          - label: "Các đoạn chữ"
+            name: "items"
+            widget: "list"
+            allow_add: false
+            allow_remove: false
+            allow_reorder: false
+            collapsed: true
+            summary: "{{fields.loai}} · {{fields.vi}}"
+            fields:
+              - { label: "Mã", name: "id", widget: "hidden" }
+              - { label: "Loại", name: "loai", widget: "hidden" }
+              - { label: "Tiếng Việt", name: "vi", widget: "text" }
+              - { label: "English", name: "en", widget: "text", required: false, hint: "Để trống thì trang tiếng Anh dùng chữ tiếng Việt" }
+      - name: "01-menu"
+        label: "Menu trên cùng"
+        file: "content/01-menu.json"
+        fields:
+          - { label: "Khối", name: "khoi", widget: "hidden" }
+          - label: "Các đoạn chữ"
+            name: "items"
+            widget: "list"
+            allow_add: false
+            allow_remove: false
+            allow_reorder: false
+            collapsed: true
+            summary: "{{fields.loai}} · {{fields.vi}}"
+            fields:
+              - { label: "Mã", name: "id", widget: "hidden" }
+              - { label: "Loại", name: "loai", widget: "hidden" }
+              - { label: "Tiếng Việt", name: "vi", widget: "text" }
+              - { label: "English", name: "en", widget: "text", required: false, hint: "Để trống thì trang tiếng Anh dùng chữ tiếng Việt" }
+      - name: "02-hero"
+        label: "01 · Hero – tiêu đề và nút"
+        file: "content/02-hero.json"
+        fields:
+          - { label: "Khối", name: "khoi", widget: "hidden" }
+          - label: "Các đoạn chữ"
+            name: "items"
+            widget: "list"
+            allow_add: false
+            allow_remove: false
+            allow_reorder: false
+            collapsed: true
+            summary: "{{fields.loai}} · {{fields.vi}}"
+            fields:
+              - { label: "Mã", name: "id", widget: "hidden" }
+              - { label: "Loại", name: "loai", widget: "hidden" }
+              - { label: "Tiếng Việt", name: "vi", widget: "text" }
+              - { label: "English", name: "en", widget: "text", required: false, hint: "Để trống thì trang tiếng Anh dùng chữ tiếng Việt" }
+      - name: "03-hero-app"
+        label: "01 · Hero – giao diện app minh hoạ"
+        file: "content/03-hero-app.json"
+        fields:
+          - { label: "Khối", name: "khoi", widget: "hidden" }
+          - label: "Các đoạn chữ"
+            name: "items"
+            widget: "list"
+            allow_add: false
+            allow_remove: false
+            allow_reorder: false
+            collapsed: true
+            summary: "{{fields.loai}} · {{fields.vi}}"
+            fields:
+              - { label: "Mã", name: "id", widget: "hidden" }
+              - { label: "Loại", name: "loai", widget: "hidden" }
+              - { label: "Tiếng Việt", name: "vi", widget: "text" }
+              - { label: "English", name: "en", widget: "text", required: false, hint: "Để trống thì trang tiếng Anh dùng chữ tiếng Việt" }
+      - name: "04-thach-thuc"
+        label: "02 · Thách thức"
+        file: "content/04-thach-thuc.json"
+        fields:
+          - { label: "Khối", name: "khoi", widget: "hidden" }
+          - label: "Các đoạn chữ"
+            name: "items"
+            widget: "list"
+            allow_add: false
+            allow_remove: false
+            allow_reorder: false
+            collapsed: true
+            summary: "{{fields.loai}} · {{fields.vi}}"
+            fields:
+              - { label: "Mã", name: "id", widget: "hidden" }
+              - { label: "Loại", name: "loai", widget: "hidden" }
+              - { label: "Tiếng Việt", name: "vi", widget: "text" }
+              - { label: "English", name: "en", widget: "text", required: false, hint: "Để trống thì trang tiếng Anh dùng chữ tiếng Việt" }
+      - name: "05-giai-phap"
+        label: "03 · Giải pháp – 3 trụ cột"
+        file: "content/05-giai-phap.json"
+        fields:
+          - { label: "Khối", name: "khoi", widget: "hidden" }
+          - label: "Các đoạn chữ"
+            name: "items"
+            widget: "list"
+            allow_add: false
+            allow_remove: false
+            allow_reorder: false
+            collapsed: true
+            summary: "{{fields.loai}} · {{fields.vi}}"
+            fields:
+              - { label: "Mã", name: "id", widget: "hidden" }
+              - { label: "Loại", name: "loai", widget: "hidden" }
+              - { label: "Tiếng Việt", name: "vi", widget: "text" }
+              - { label: "English", name: "en", widget: "text", required: false, hint: "Để trống thì trang tiếng Anh dùng chữ tiếng Việt" }
+      - name: "06-tinh-nang"
+        label: "04 · 12 nhóm chức năng"
+        file: "content/06-tinh-nang.json"
+        fields:
+          - { label: "Khối", name: "khoi", widget: "hidden" }
+          - label: "Các đoạn chữ"
+            name: "items"
+            widget: "list"
+            allow_add: false
+            allow_remove: false
+            allow_reorder: false
+            collapsed: true
+            summary: "{{fields.loai}} · {{fields.vi}}"
+            fields:
+              - { label: "Mã", name: "id", widget: "hidden" }
+              - { label: "Loại", name: "loai", widget: "hidden" }
+              - { label: "Tiếng Việt", name: "vi", widget: "text" }
+              - { label: "English", name: "en", widget: "text", required: false, hint: "Để trống thì trang tiếng Anh dùng chữ tiếng Việt" }
+      - name: "07-tro-ly-ai"
+        label: "Trợ lý AI (khung hỏi thử)"
+        file: "content/07-tro-ly-ai.json"
+        fields:
+          - { label: "Khối", name: "khoi", widget: "hidden" }
+          - label: "Các đoạn chữ"
+            name: "items"
+            widget: "list"
+            allow_add: false
+            allow_remove: false
+            allow_reorder: false
+            collapsed: true
+            summary: "{{fields.loai}} · {{fields.vi}}"
+            fields:
+              - { label: "Mã", name: "id", widget: "hidden" }
+              - { label: "Loại", name: "loai", widget: "hidden" }
+              - { label: "Tiếng Việt", name: "vi", widget: "text" }
+              - { label: "English", name: "en", widget: "text", required: false, hint: "Để trống thì trang tiếng Anh dùng chữ tiếng Việt" }
+      - name: "08-nhan-tai"
+        label: "05 · Chu trình nhân tài"
+        file: "content/08-nhan-tai.json"
+        fields:
+          - { label: "Khối", name: "khoi", widget: "hidden" }
+          - label: "Các đoạn chữ"
+            name: "items"
+            widget: "list"
+            allow_add: false
+            allow_remove: false
+            allow_reorder: false
+            collapsed: true
+            summary: "{{fields.loai}} · {{fields.vi}}"
+            fields:
+              - { label: "Mã", name: "id", widget: "hidden" }
+              - { label: "Loại", name: "loai", widget: "hidden" }
+              - { label: "Tiếng Việt", name: "vi", widget: "text" }
+              - { label: "English", name: "en", widget: "text", required: false, hint: "Để trống thì trang tiếng Anh dùng chữ tiếng Việt" }
+      - name: "09-vai-tro"
+        label: "06 · 4 vai trò + Not just the pay"
+        file: "content/09-vai-tro.json"
+        fields:
+          - { label: "Khối", name: "khoi", widget: "hidden" }
+          - label: "Các đoạn chữ"
+            name: "items"
+            widget: "list"
+            allow_add: false
+            allow_remove: false
+            allow_reorder: false
+            collapsed: true
+            summary: "{{fields.loai}} · {{fields.vi}}"
+            fields:
+              - { label: "Mã", name: "id", widget: "hidden" }
+              - { label: "Loại", name: "loai", widget: "hidden" }
+              - { label: "Tiếng Việt", name: "vi", widget: "text" }
+              - { label: "English", name: "en", widget: "text", required: false, hint: "Để trống thì trang tiếng Anh dùng chữ tiếng Việt" }
+      - name: "10-vi-sao"
+        label: "07 · Vì sao XLINK"
+        file: "content/10-vi-sao.json"
+        fields:
+          - { label: "Khối", name: "khoi", widget: "hidden" }
+          - label: "Các đoạn chữ"
+            name: "items"
+            widget: "list"
+            allow_add: false
+            allow_remove: false
+            allow_reorder: false
+            collapsed: true
+            summary: "{{fields.loai}} · {{fields.vi}}"
+            fields:
+              - { label: "Mã", name: "id", widget: "hidden" }
+              - { label: "Loại", name: "loai", widget: "hidden" }
+              - { label: "Tiếng Việt", name: "vi", widget: "text" }
+              - { label: "English", name: "en", widget: "text", required: false, hint: "Để trống thì trang tiếng Anh dùng chữ tiếng Việt" }
+      - name: "11-trien-khai"
+        label: "08 · Triển khai"
+        file: "content/11-trien-khai.json"
+        fields:
+          - { label: "Khối", name: "khoi", widget: "hidden" }
+          - label: "Các đoạn chữ"
+            name: "items"
+            widget: "list"
+            allow_add: false
+            allow_remove: false
+            allow_reorder: false
+            collapsed: true
+            summary: "{{fields.loai}} · {{fields.vi}}"
+            fields:
+              - { label: "Mã", name: "id", widget: "hidden" }
+              - { label: "Loại", name: "loai", widget: "hidden" }
+              - { label: "Tiếng Việt", name: "vi", widget: "text" }
+              - { label: "English", name: "en", widget: "text", required: false, hint: "Để trống thì trang tiếng Anh dùng chữ tiếng Việt" }
+      - name: "12-dang-ky"
+        label: "09 · Đăng ký + form"
+        file: "content/12-dang-ky.json"
+        fields:
+          - { label: "Khối", name: "khoi", widget: "hidden" }
+          - label: "Các đoạn chữ"
+            name: "items"
+            widget: "list"
+            allow_add: false
+            allow_remove: false
+            allow_reorder: false
+            collapsed: true
+            summary: "{{fields.loai}} · {{fields.vi}}"
+            fields:
+              - { label: "Mã", name: "id", widget: "hidden" }
+              - { label: "Loại", name: "loai", widget: "hidden" }
+              - { label: "Tiếng Việt", name: "vi", widget: "text" }
+              - { label: "English", name: "en", widget: "text", required: false, hint: "Để trống thì trang tiếng Anh dùng chữ tiếng Việt" }
+      - name: "13-chan-trang"
+        label: "Chân trang"
+        file: "content/13-chan-trang.json"
+        fields:
+          - { label: "Khối", name: "khoi", widget: "hidden" }
+          - label: "Các đoạn chữ"
+            name: "items"
+            widget: "list"
+            allow_add: false
+            allow_remove: false
+            allow_reorder: false
+            collapsed: true
+            summary: "{{fields.loai}} · {{fields.vi}}"
+            fields:
+              - { label: "Mã", name: "id", widget: "hidden" }
+              - { label: "Loại", name: "loai", widget: "hidden" }
+              - { label: "Tiếng Việt", name: "vi", widget: "text" }
+              - { label: "English", name: "en", widget: "text", required: false, hint: "Để trống thì trang tiếng Anh dùng chữ tiếng Việt" }
+      - name: "14-tro-ly-noi"
+        label: "Trợ lý hỏi đáp nổi (góc phải)"
+        file: "content/14-tro-ly-noi.json"
+        fields:
+          - { label: "Khối", name: "khoi", widget: "hidden" }
+          - label: "Các đoạn chữ"
+            name: "items"
+            widget: "list"
+            allow_add: false
+            allow_remove: false
+            allow_reorder: false
+            collapsed: true
+            summary: "{{fields.loai}} · {{fields.vi}}"
+            fields:
+              - { label: "Mã", name: "id", widget: "hidden" }
+              - { label: "Loại", name: "loai", widget: "hidden" }
+              - { label: "Tiếng Việt", name: "vi", widget: "text" }
+              - { label: "English", name: "en", widget: "text", required: false, hint: "Để trống thì trang tiếng Anh dùng chữ tiếng Việt" }

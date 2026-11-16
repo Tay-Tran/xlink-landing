@@ -1,0 +1,455 @@
+{
+  "khoi": "03 · Giải pháp – 3 trụ cột",
+  "items": [
+    {
+      "id": "giai-phap-001",
+      "loai": "Đoạn chữ",
+      "vi": "Giải pháp tổng thể",
+      "en": "The complete solution"
+    },
+    {
+      "id": "giai-phap-002",
+      "loai": "Tiêu đề khối",
+      "vi": "One platform. Connected people. Better performance.",
+      "en": "One platform. Connected people. Better performance."
+    },
+    {
+      "id": "giai-phap-003",
+      "loai": "Đoạn chữ",
+      "vi": "XLINK là nền tảng quản trị nguồn lực tích hợp HRM, quản trị hiệu suất, quản trị năng lực, đào tạo và AI Assistant. Thay vì nhiều công cụ rời rạc, dữ liệu và nghiệp vụ nằm trên cùng một hệ thống, để các cấp quản lý và nhân viên phối hợp hiệu quả hơn.",
+      "en": "XLINK is a people management platform that brings together HRM, performance management, competency management, training and an AI Assistant. Instead of scattered tools, data and processes live in one system, so managers and employees work together more effectively."
+    },
+    {
+      "id": "giai-phap-004",
+      "loai": "Tiêu đề nhỏ",
+      "vi": "HR Operations",
+      "en": "HR Operations"
+    },
+    {
+      "id": "giai-phap-005",
+      "loai": "Đoạn chữ",
+      "vi": "Vận hành nhân sự thông minh",
+      "en": "Smart HR operations"
+    },
+    {
+      "id": "giai-phap-006",
+      "loai": "Đoạn chữ",
+      "vi": "Số hóa toàn bộ nghiệp vụ, từ tổ chức, hồ sơ, tuyển dụng, chấm công, nghỉ phép, tiền lương đến tiếp nhận và nghỉ việc.",
+      "en": "Digitize every HR process, from organization, profiles, recruiting, attendance and leave to payroll, onboarding and offboarding."
+    },
+    {
+      "id": "giai-phap-007",
+      "loai": "Ý / dòng",
+      "vi": "Chuẩn hóa dữ liệu nhân sự tập trung",
+      "en": "Centralized, standardized HR data"
+    },
+    {
+      "id": "giai-phap-008",
+      "loai": "Ý / dòng",
+      "vi": "Kết nối quy trình và luồng phê duyệt",
+      "en": "Connected processes and approval flows"
+    },
+    {
+      "id": "giai-phap-009",
+      "loai": "Ý / dòng",
+      "vi": "Giảm thao tác thủ công, hạn chế sai sót",
+      "en": "Less manual work, fewer errors"
+    },
+    {
+      "id": "giai-phap-010",
+      "loai": "Ý / dòng",
+      "vi": "Theo dõi thông tin và tình trạng vận hành",
+      "en": "Track information and operational status"
+    },
+    {
+      "id": "giai-phap-011",
+      "loai": "Link",
+      "vi": "Xem nhóm HR Operations <span aria-hidden=\"true\">→</span>",
+      "en": "See HR Operations <span aria-hidden=\"true\">→</span>"
+    },
+    {
+      "id": "giai-phap-012",
+      "loai": "Tiêu đề nhỏ",
+      "vi": "Talent Management",
+      "en": "Talent Management"
+    },
+    {
+      "id": "giai-phap-013",
+      "loai": "Đoạn chữ",
+      "vi": "Quản trị và phát triển nhân tài",
+      "en": "Manage and develop talent"
+    },
+    {
+      "id": "giai-phap-014",
+      "loai": "Đoạn chữ",
+      "vi": "Nối mục tiêu kinh doanh, KPI, hiệu suất, năng lực và đào tạo thành một chu trình phát triển con người.",
+      "en": "Connects business goals, KPIs, performance, competency and training into one people development cycle."
+    },
+    {
+      "id": "giai-phap-015",
+      "loai": "Ý / dòng",
+      "vi": "Thiết lập và phân bổ KPI",
+      "en": "Set and cascade KPIs"
+    },
+    {
+      "id": "giai-phap-016",
+      "loai": "Ý / dòng",
+      "vi": "Đánh giá hiệu suất và năng lực",
+      "en": "Performance and competency reviews"
+    },
+    {
+      "id": "giai-phap-017",
+      "loai": "Ý / dòng",
+      "vi": "Nhận diện khoảng cách năng lực",
+      "en": "Identify competency gaps"
+    },
+    {
+      "id": "giai-phap-018",
+      "loai": "Ý / dòng",
+      "vi": "Kế hoạch phát triển cá nhân",
+      "en": "Individual development plans"
+    },
+    {
+      "id": "giai-phap-019",
+      "loai": "Ý / dòng",
+      "vi": "Phát triển và quy hoạch nhân tài",
+      "en": "Talent development and planning"
+    },
+    {
+      "id": "giai-phap-020",
+      "loai": "Link",
+      "vi": "Xem chu trình nhân tài <span aria-hidden=\"true\">→</span>",
+      "en": "See the talent cycle <span aria-hidden=\"true\">→</span>"
+    },
+    {
+      "id": "giai-phap-021",
+      "loai": "Tiêu đề nhỏ",
+      "vi": "AI & People Analytics",
+      "en": "AI & People Analytics"
+    },
+    {
+      "id": "giai-phap-022",
+      "loai": "Đoạn chữ",
+      "vi": "Trí tuệ dữ liệu",
+      "en": "Data intelligence"
+    },
+    {
+      "id": "giai-phap-023",
+      "loai": "Đoạn chữ",
+      "vi": "AI trong nghiệp vụ nhân sự giúp tìm thông tin, xử lý công việc và có thêm cơ sở ra quyết định.",
+      "en": "AI built into HR work helps people find information, get work done and make better-informed decisions."
+    },
+    {
+      "id": "giai-phap-024",
+      "loai": "Ý / dòng",
+      "vi": "Trợ lý AI hỗ trợ nghiệp vụ HR",
+      "en": "AI Assistant for HR tasks"
+    },
+    {
+      "id": "giai-phap-025",
+      "loai": "Ý / dòng",
+      "vi": "Gợi ý KPI và nội dung đánh giá",
+      "en": "KPI and review content suggestions"
+    },
+    {
+      "id": "giai-phap-026",
+      "loai": "Ý / dòng",
+      "vi": "Hỗ trợ tuyển dụng và đào tạo",
+      "en": "Support for recruiting and training"
+    },
+    {
+      "id": "giai-phap-027",
+      "loai": "Ý / dòng",
+      "vi": "Hỏi đáp dữ liệu bằng ngôn ngữ tự nhiên",
+      "en": "Ask your data in natural language"
+    },
+    {
+      "id": "giai-phap-028",
+      "loai": "Ý / dòng",
+      "vi": "Báo cáo và phân tích quản trị",
+      "en": "Management reports and analytics"
+    },
+    {
+      "id": "giai-phap-029",
+      "loai": "Link",
+      "vi": "Thử Trợ lý AI <span aria-hidden=\"true\">→</span>",
+      "en": "Try the AI Assistant <span aria-hidden=\"true\">→</span>"
+    },
+    {
+      "id": "giai-phap-030",
+      "loai": "Đoạn chữ",
+      "vi": "XLINK kết nối từ vận hành nhân sự đến phát triển nhân tài, từ dữ liệu đến quyết định.",
+      "en": "XLINK connects HR operations to talent development, and data to decisions."
+    },
+    {
+      "id": "giai-phap-031",
+      "loai": "Link",
+      "vi": "Xem 12 nhóm chức năng <span aria-hidden=\"true\">→</span>",
+      "en": "See all 12 feature groups <span aria-hidden=\"true\">→</span>"
+    },
+    {
+      "id": "giai-phap-032",
+      "loai": "Chữ",
+      "vi": "Tổng quan",
+      "en": "Overview"
+    },
+    {
+      "id": "giai-phap-033",
+      "loai": "Chữ",
+      "vi": "Hồ sơ nhân sự",
+      "en": "Employee records"
+    },
+    {
+      "id": "giai-phap-034",
+      "loai": "Chữ",
+      "vi": "Hợp đồng lao động",
+      "en": "Employment contracts"
+    },
+    {
+      "id": "giai-phap-035",
+      "loai": "Chữ",
+      "vi": "Bảng công",
+      "en": "Timesheets"
+    },
+    {
+      "id": "giai-phap-036",
+      "loai": "Chữ",
+      "vi": "Xếp ca",
+      "en": "Shift scheduling"
+    },
+    {
+      "id": "giai-phap-037",
+      "loai": "Chữ",
+      "vi": "Tiền lương",
+      "en": "Payroll"
+    },
+    {
+      "id": "giai-phap-038",
+      "loai": "Chữ",
+      "vi": "Tổng quan",
+      "en": "Overview"
+    },
+    {
+      "id": "giai-phap-039",
+      "loai": "Chữ",
+      "vi": "Hồ sơ nhân sự",
+      "en": "Employee records"
+    },
+    {
+      "id": "giai-phap-040",
+      "loai": "Chữ",
+      "vi": "Hợp đồng lao động",
+      "en": "Employment contracts"
+    },
+    {
+      "id": "giai-phap-041",
+      "loai": "Chữ",
+      "vi": "Bảng công",
+      "en": "Timesheets"
+    },
+    {
+      "id": "giai-phap-042",
+      "loai": "Chữ",
+      "vi": "Xếp ca",
+      "en": "Shift scheduling"
+    },
+    {
+      "id": "giai-phap-043",
+      "loai": "Chữ",
+      "vi": "Tiền lương",
+      "en": "Payroll"
+    },
+    {
+      "id": "giai-phap-044",
+      "loai": "Chữ",
+      "vi": "Tổng quan",
+      "en": "Overview"
+    },
+    {
+      "id": "giai-phap-045",
+      "loai": "Chữ",
+      "vi": "Hồ sơ nhân sự",
+      "en": "Employee records"
+    },
+    {
+      "id": "giai-phap-046",
+      "loai": "Chữ",
+      "vi": "Hợp đồng lao động",
+      "en": "Employment contracts"
+    },
+    {
+      "id": "giai-phap-047",
+      "loai": "Chữ",
+      "vi": "Bảng công",
+      "en": "Timesheets"
+    },
+    {
+      "id": "giai-phap-048",
+      "loai": "Chữ",
+      "vi": "Xếp ca",
+      "en": "Shift scheduling"
+    },
+    {
+      "id": "giai-phap-049",
+      "loai": "Chữ",
+      "vi": "Tiền lương",
+      "en": "Payroll"
+    },
+    {
+      "id": "giai-phap-050",
+      "loai": "Chữ",
+      "vi": "Tổng quan",
+      "en": "Overview"
+    },
+    {
+      "id": "giai-phap-051",
+      "loai": "Chữ",
+      "vi": "Hồ sơ nhân sự",
+      "en": "Employee records"
+    },
+    {
+      "id": "giai-phap-052",
+      "loai": "Chữ",
+      "vi": "Hợp đồng lao động",
+      "en": "Employment contracts"
+    },
+    {
+      "id": "giai-phap-053",
+      "loai": "Chữ",
+      "vi": "Bảng công",
+      "en": "Timesheets"
+    },
+    {
+      "id": "giai-phap-054",
+      "loai": "Chữ",
+      "vi": "Xếp ca",
+      "en": "Shift scheduling"
+    },
+    {
+      "id": "giai-phap-055",
+      "loai": "Chữ",
+      "vi": "Tiền lương",
+      "en": "Payroll"
+    },
+    {
+      "id": "giai-phap-056",
+      "loai": "Chữ",
+      "vi": "Tuyển dụng",
+      "en": "Recruitment"
+    },
+    {
+      "id": "giai-phap-057",
+      "loai": "Chữ",
+      "vi": "Ma trận 9-Box",
+      "en": "9-Box matrix"
+    },
+    {
+      "id": "giai-phap-058",
+      "loai": "Chữ",
+      "vi": "Vinh danh",
+      "en": "Recognition"
+    },
+    {
+      "id": "giai-phap-059",
+      "loai": "Chữ",
+      "vi": "Trợ lý AI",
+      "en": "AI Assistant"
+    },
+    {
+      "id": "giai-phap-060",
+      "loai": "Chữ",
+      "vi": "Tìm nhanh Ctrl K",
+      "en": "Quick search Ctrl K"
+    },
+    {
+      "id": "giai-phap-061",
+      "loai": "Chữ",
+      "vi": "Tuyển dụng",
+      "en": "Recruitment"
+    },
+    {
+      "id": "giai-phap-062",
+      "loai": "Chữ",
+      "vi": "Ma trận 9-Box",
+      "en": "9-Box matrix"
+    },
+    {
+      "id": "giai-phap-063",
+      "loai": "Chữ",
+      "vi": "Vinh danh",
+      "en": "Recognition"
+    },
+    {
+      "id": "giai-phap-064",
+      "loai": "Chữ",
+      "vi": "Trợ lý AI",
+      "en": "AI Assistant"
+    },
+    {
+      "id": "giai-phap-065",
+      "loai": "Chữ",
+      "vi": "Tìm nhanh Ctrl K",
+      "en": "Quick search Ctrl K"
+    },
+    {
+      "id": "giai-phap-066",
+      "loai": "Chữ",
+      "vi": "Tuyển dụng",
+      "en": "Recruitment"
+    },
+    {
+      "id": "giai-phap-067",
+      "loai": "Chữ",
+      "vi": "Ma trận 9-Box",
+      "en": "9-Box matrix"
+    },
+    {
+      "id": "giai-phap-068",
+      "loai": "Chữ",
+      "vi": "Vinh danh",
+      "en": "Recognition"
+    },
+    {
+      "id": "giai-phap-069",
+      "loai": "Chữ",
+      "vi": "Trợ lý AI",
+      "en": "AI Assistant"
+    },
+    {
+      "id": "giai-phap-070",
+      "loai": "Chữ",
+      "vi": "Tìm nhanh Ctrl K",
+      "en": "Quick search Ctrl K"
+    },
+    {
+      "id": "giai-phap-071",
+      "loai": "Chữ",
+      "vi": "Tuyển dụng",
+      "en": "Recruitment"
+    },
+    {
+      "id": "giai-phap-072",
+      "loai": "Chữ",
+      "vi": "Ma trận 9-Box",
+      "en": "9-Box matrix"
+    },
+    {
+      "id": "giai-phap-073",
+      "loai": "Chữ",
+      "vi": "Vinh danh",
+      "en": "Recognition"
+    },
+    {
+      "id": "giai-phap-074",
+      "loai": "Chữ",
+      "vi": "Trợ lý AI",
+      "en": "AI Assistant"
+    },
+    {
+      "id": "giai-phap-075",
+      "loai": "Chữ",
+      "vi": "Tìm nhanh Ctrl K",
+      "en": "Quick search Ctrl K"
+    }
+  ]
+}

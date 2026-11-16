@@ -1,0 +1,581 @@
+{
+  "khoi": "05 · Chu trình nhân tài",
+  "items": [
+    {
+      "id": "nhan-tai-001",
+      "loai": "Đoạn chữ",
+      "vi": "Next-Level Talent Management",
+      "en": "Next-Level Talent Management"
+    },
+    {
+      "id": "nhan-tai-002",
+      "loai": "Tiêu đề khối",
+      "vi": "Từ quản lý nhân sự đến quản trị toàn bộ hành trình phát triển nhân tài",
+      "en": "From managing people to managing the whole talent development journey"
+    },
+    {
+      "id": "nhan-tai-003",
+      "loai": "Đoạn chữ",
+      "vi": "Doanh nghiệp không thể phát triển bền vững chỉ bằng việc quản lý tốt hồ sơ, chấm công và tiền lương. Cần biết đội ngũ đang thế nào, năng lực ở đâu, kết quả ra sao và cần phát triển những ai cho tương lai.",
+      "en": "A company cannot grow sustainably just by managing records, attendance and payroll well. It needs to know its team, where competencies stand, what results look like and whom to develop for the future."
+    },
+    {
+      "id": "nhan-tai-004",
+      "loai": "Nút",
+      "vi": "Competency",
+      "en": "Competency"
+    },
+    {
+      "id": "nhan-tai-005",
+      "loai": "Nút",
+      "vi": "Performance",
+      "en": "Performance"
+    },
+    {
+      "id": "nhan-tai-006",
+      "loai": "Nút",
+      "vi": "Assessment",
+      "en": "Assessment"
+    },
+    {
+      "id": "nhan-tai-007",
+      "loai": "Nút",
+      "vi": "Development",
+      "en": "Development"
+    },
+    {
+      "id": "nhan-tai-008",
+      "loai": "Nút",
+      "vi": "Talent & Succession",
+      "en": "Talent & Succession"
+    },
+    {
+      "id": "nhan-tai-009",
+      "loai": "Chữ",
+      "vi": "<span class=\"acc-n\">01</span>Competency – Chuẩn hóa năng lực",
+      "en": "<span class=\"acc-n\">01</span>Competency – Standardize competencies"
+    },
+    {
+      "id": "nhan-tai-010",
+      "loai": "Chữ",
+      "vi": "Khung năng lực theo vị trí: chuyên môn, hành vi và quản lý",
+      "en": "Competency frameworks by position: functional, behavioral and leadership"
+    },
+    {
+      "id": "nhan-tai-011",
+      "loai": "Chữ",
+      "vi": "<b>Khung</b>năng lực theo từng chức danh",
+      "en": "<b>Framework</b>competencies defined per job title"
+    },
+    {
+      "id": "nhan-tai-012",
+      "loai": "Chữ",
+      "vi": "<b>3</b>nhóm: chuyên môn, hành vi, quản lý",
+      "en": "<b>3</b>groups: functional, behavioral, leadership"
+    },
+    {
+      "id": "nhan-tai-013",
+      "loai": "Chữ",
+      "vi": "<span class=\"acc-n\">02</span>Performance – Quản trị hiệu suất",
+      "en": "<span class=\"acc-n\">02</span>Performance – Manage performance"
+    },
+    {
+      "id": "nhan-tai-014",
+      "loai": "Chữ",
+      "vi": "Mục tiêu kinh doanh thành KPI của đơn vị và cá nhân",
+      "en": "Turn business goals into unit and individual KPIs"
+    },
+    {
+      "id": "nhan-tai-015",
+      "loai": "Chữ",
+      "vi": "<b>KPI</b>phân bổ tới từng người",
+      "en": "<b>KPI</b>cascaded to every person"
+    },
+    {
+      "id": "nhan-tai-016",
+      "loai": "Chữ",
+      "vi": "<b>100%</b>trọng số được kiểm tra tự động",
+      "en": "<b>100%</b>weightings checked automatically"
+    },
+    {
+      "id": "nhan-tai-017",
+      "loai": "Chữ",
+      "vi": "<span class=\"acc-n\">03</span>Assessment – Đánh giá toàn diện",
+      "en": "<span class=\"acc-n\">03</span>Assessment – Full-picture reviews"
+    },
+    {
+      "id": "nhan-tai-018",
+      "loai": "Chữ",
+      "vi": "KPI, năng lực và đánh giá đa chiều trên một màn hình",
+      "en": "KPIs, competencies and multi-rater reviews on one screen"
+    },
+    {
+      "id": "nhan-tai-019",
+      "loai": "Chữ",
+      "vi": "<b>360°</b>tự đánh giá, đồng nghiệp, quản lý",
+      "en": "<b>360°</b>self, peer and manager"
+    },
+    {
+      "id": "nhan-tai-020",
+      "loai": "Chữ",
+      "vi": "<b>9</b>nhóm nhân tài, kèm gợi ý hành động",
+      "en": "<b>9</b>talent groups, with suggested actions"
+    },
+    {
+      "id": "nhan-tai-021",
+      "loai": "Chữ",
+      "vi": "<span class=\"acc-n\">04</span>Development – Phát triển cá nhân",
+      "en": "<span class=\"acc-n\">04</span>Development – Individual growth"
+    },
+    {
+      "id": "nhan-tai-022",
+      "loai": "Chữ",
+      "vi": "IDP, PIP và kế hoạch đào tạo từ khoảng cách năng lực",
+      "en": "IDP, PIP and training plans built from competency gaps"
+    },
+    {
+      "id": "nhan-tai-023",
+      "loai": "Chữ",
+      "vi": "<b>IDP</b>khoá học, kèm cặp, mốc đánh giá lại",
+      "en": "<b>IDP</b>courses, mentoring, re-assessment dates"
+    },
+    {
+      "id": "nhan-tai-024",
+      "loai": "Chữ",
+      "vi": "<b>PIP</b>mốc theo dõi theo tuần",
+      "en": "<b>PIP</b>weekly checkpoints"
+    },
+    {
+      "id": "nhan-tai-025",
+      "loai": "Chữ",
+      "vi": "<span class=\"acc-n\">05</span>Talent & Succession – Phát triển và kế nhiệm",
+      "en": "<span class=\"acc-n\">05</span>Talent &amp; Succession – Develop and succeed"
+    },
+    {
+      "id": "nhan-tai-026",
+      "loai": "Chữ",
+      "vi": "Nhận diện nhân tài, nhóm tiềm năng, kế nhiệm vị trí quan trọng",
+      "en": "Identify talent and potential, plan succession for key roles"
+    },
+    {
+      "id": "nhan-tai-027",
+      "loai": "Chữ",
+      "vi": "<b>Kế nhiệm</b>ứng viên và mức sẵn sàng",
+      "en": "<b>Succession</b>candidates and readiness"
+    },
+    {
+      "id": "nhan-tai-028",
+      "loai": "Chữ",
+      "vi": "<b>Nhật ký</b>mọi thay đổi được lưu vết",
+      "en": "<b>Audit log</b>every change is recorded"
+    },
+    {
+      "id": "nhan-tai-029",
+      "loai": "Tiêu đề nhỏ",
+      "vi": "Khung năng lực: Trưởng cửa hàng",
+      "en": "Competency framework: Store manager"
+    },
+    {
+      "id": "nhan-tai-030",
+      "loai": "Chữ",
+      "vi": "Chuyên môn, hành vi, quản lý",
+      "en": "Functional, behavioral, leadership"
+    },
+    {
+      "id": "nhan-tai-031",
+      "loai": "Nhãn",
+      "vi": "Đã ban hành",
+      "en": "Published"
+    },
+    {
+      "id": "nhan-tai-032",
+      "loai": "Chữ",
+      "vi": "Bán hàng và dịch vụ <small class=\"gap-k\">Chuyên môn</small>",
+      "en": "Sales and service <small class=\"gap-k\">Functional</small>"
+    },
+    {
+      "id": "nhan-tai-033",
+      "loai": "Chữ",
+      "vi": "Quản lý ca và nhân sự <small class=\"gap-k\">Quản lý</small>",
+      "en": "Shift and people management <small class=\"gap-k\">Leadership</small>"
+    },
+    {
+      "id": "nhan-tai-034",
+      "loai": "Chữ",
+      "vi": "Đọc số liệu và báo cáo <small class=\"gap-k\">Chuyên môn</small>",
+      "en": "Reading figures and reports <small class=\"gap-k\">Functional</small>"
+    },
+    {
+      "id": "nhan-tai-035",
+      "loai": "Chữ",
+      "vi": "Tuân thủ quy trình <small class=\"gap-k\">Hành vi</small>",
+      "en": "Process compliance <small class=\"gap-k\">Behavioral</small>"
+    },
+    {
+      "id": "nhan-tai-036",
+      "loai": "Chữ",
+      "vi": "T",
+      "en": "T"
+    },
+    {
+      "id": "nhan-tai-037",
+      "loai": "Chữ đậm",
+      "vi": "Trần Thị Thu",
+      "en": "Trần Thị Thu"
+    },
+    {
+      "id": "nhan-tai-038",
+      "loai": "Chữ nhỏ",
+      "vi": "Trưởng cửa hàng Quận 1, kỳ Quý 4/2026",
+      "en": "Store manager, District 1, Q4/2026"
+    },
+    {
+      "id": "nhan-tai-039",
+      "loai": "Nhãn",
+      "vi": "2 khoảng cách",
+      "en": "2 gaps"
+    },
+    {
+      "id": "nhan-tai-040",
+      "loai": "Tiêu đề nhỏ",
+      "vi": "Mục tiêu 2026",
+      "en": "2026 goals"
+    },
+    {
+      "id": "nhan-tai-041",
+      "loai": "Nhãn",
+      "vi": "Đúng tiến độ",
+      "en": "On track"
+    },
+    {
+      "id": "nhan-tai-042",
+      "loai": "Chữ đậm",
+      "vi": "Doanh thu toàn công ty",
+      "en": "Company-wide revenue"
+    },
+    {
+      "id": "nhan-tai-043",
+      "loai": "Chữ nhỏ",
+      "vi": "120 tỷ, hết tháng 10",
+      "en": "VND 120B as of end of October"
+    },
+    {
+      "id": "nhan-tai-044",
+      "loai": "Chữ đậm",
+      "vi": "Khối Kinh doanh",
+      "en": "Sales division"
+    },
+    {
+      "id": "nhan-tai-045",
+      "loai": "Chữ nhỏ",
+      "vi": "64 tỷ",
+      "en": "VND 64B"
+    },
+    {
+      "id": "nhan-tai-046",
+      "loai": "Chữ đậm",
+      "vi": "Khối Sản xuất",
+      "en": "Manufacturing division"
+    },
+    {
+      "id": "nhan-tai-047",
+      "loai": "Chữ nhỏ",
+      "vi": "41 tỷ",
+      "en": "VND 41B"
+    },
+    {
+      "id": "nhan-tai-048",
+      "loai": "Chữ đậm",
+      "vi": "Kênh Online",
+      "en": "Online channel"
+    },
+    {
+      "id": "nhan-tai-049",
+      "loai": "Chữ nhỏ",
+      "vi": "15 tỷ",
+      "en": "VND 15B"
+    },
+    {
+      "id": "nhan-tai-050",
+      "loai": "Chữ",
+      "vi": "K",
+      "en": "K"
+    },
+    {
+      "id": "nhan-tai-051",
+      "loai": "Chữ đậm",
+      "vi": "Trần Minh Khoa",
+      "en": "Trần Minh Khoa"
+    },
+    {
+      "id": "nhan-tai-052",
+      "loai": "Chữ nhỏ",
+      "vi": "4 KPI, trọng số 100%",
+      "en": "4 KPIs, 100% weight"
+    },
+    {
+      "id": "nhan-tai-053",
+      "loai": "Tiêu đề nhỏ",
+      "vi": "Ma trận 9-Box",
+      "en": "9-Box matrix"
+    },
+    {
+      "id": "nhan-tai-054",
+      "loai": "Chữ",
+      "vi": "Bấm vào từng ô",
+      "en": "Click any cell"
+    },
+    {
+      "id": "nhan-tai-055",
+      "loai": "Chữ",
+      "vi": "Năng lực",
+      "en": "Competency"
+    },
+    {
+      "id": "nhan-tai-056",
+      "loai": "Chữ",
+      "vi": "Hiệu suất",
+      "en": "Performance"
+    },
+    {
+      "id": "nhan-tai-057",
+      "loai": "Nút",
+      "vi": "Sai vị trí",
+      "en": "Misplaced"
+    },
+    {
+      "id": "nhan-tai-058",
+      "loai": "Nút",
+      "vi": "Tiềm năng cao",
+      "en": "High potential"
+    },
+    {
+      "id": "nhan-tai-059",
+      "loai": "Nút",
+      "vi": "Ngôi sao",
+      "en": "Star"
+    },
+    {
+      "id": "nhan-tai-060",
+      "loai": "Nút",
+      "vi": "Đang chệch hướng",
+      "en": "Off track"
+    },
+    {
+      "id": "nhan-tai-061",
+      "loai": "Nút",
+      "vi": "Trụ cột ổn định",
+      "en": "Core player"
+    },
+    {
+      "id": "nhan-tai-062",
+      "loai": "Nút",
+      "vi": "Thành tích cao",
+      "en": "High performer"
+    },
+    {
+      "id": "nhan-tai-063",
+      "loai": "Nút",
+      "vi": "Cần cải thiện",
+      "en": "Needs improvement"
+    },
+    {
+      "id": "nhan-tai-064",
+      "loai": "Nút",
+      "vi": "Cần thúc đẩy",
+      "en": "Needs a push"
+    },
+    {
+      "id": "nhan-tai-065",
+      "loai": "Nút",
+      "vi": "Chuyên gia",
+      "en": "Specialist"
+    },
+    {
+      "id": "nhan-tai-066",
+      "loai": "Tiêu đề nhỏ",
+      "vi": "Ngôi sao, người kế nhiệm",
+      "en": "Star, successor"
+    },
+    {
+      "id": "nhan-tai-067",
+      "loai": "Đoạn chữ",
+      "vi": "Năng lực cao, hiệu suất cao. XLink đưa nhóm này vào danh sách ưu tiên kế nhiệm, gợi ý giữ chân và giao thử thách lớn hơn.",
+      "en": "High competency, high performance. XLink puts this group on the succession priority list and suggests ways to retain them and give them bigger challenges."
+    },
+    {
+      "id": "nhan-tai-068",
+      "loai": "Tiêu đề nhỏ",
+      "vi": "Kế hoạch phát triển cá nhân (IDP)",
+      "en": "Individual development plan (IDP)"
+    },
+    {
+      "id": "nhan-tai-069",
+      "loai": "Chữ",
+      "vi": "Lập từ 2 khoảng cách năng lực, kỳ Quý 4/2026",
+      "en": "Built from 2 competency gaps, Q4/2026"
+    },
+    {
+      "id": "nhan-tai-070",
+      "loai": "Nhãn",
+      "vi": "Đang thực hiện",
+      "en": "In progress"
+    },
+    {
+      "id": "nhan-tai-071",
+      "loai": "Chữ",
+      "vi": "T",
+      "en": "T"
+    },
+    {
+      "id": "nhan-tai-072",
+      "loai": "Chữ đậm",
+      "vi": "Trần Thị Thu",
+      "en": "Trần Thị Thu"
+    },
+    {
+      "id": "nhan-tai-073",
+      "loai": "Chữ nhỏ",
+      "vi": "Trưởng cửa hàng Quận 1, kèm cặp: Quản lý khu vực",
+      "en": "Store manager, District 1, mentor: Area manager"
+    },
+    {
+      "id": "nhan-tai-074",
+      "loai": "Chữ đậm",
+      "vi": "Lộ trình học được gán",
+      "en": "Assigned learning path"
+    },
+    {
+      "id": "nhan-tai-075",
+      "loai": "Ý / dòng",
+      "vi": "Khoá Xếp ca và quản lý nhân sự cửa hàng",
+      "en": "Course: Shift scheduling and store staff management"
+    },
+    {
+      "id": "nhan-tai-076",
+      "loai": "Ý / dòng",
+      "vi": "Đọc báo cáo doanh số cơ bản, đang học 60%",
+      "en": "Reading sales reports, 60% complete"
+    },
+    {
+      "id": "nhan-tai-077",
+      "loai": "Ý / dòng",
+      "vi": "Kèm cặp 1-1 với Quản lý khu vực, tháng 1/2027",
+      "en": "1:1 mentoring with the area manager, January 2027"
+    },
+    {
+      "id": "nhan-tai-078",
+      "loai": "Đoạn chữ",
+      "vi": "Đánh giá lại năng lực tháng 03/2027. Nhân sự hiệu suất thấp được lập PIP có mốc theo tuần.",
+      "en": "Competency re-review in March 2027. Low performers get a PIP with weekly checkpoints."
+    },
+    {
+      "id": "nhan-tai-079",
+      "loai": "Tiêu đề nhỏ",
+      "vi": "Trưởng phòng Sản phẩm",
+      "en": "Head of Product"
+    },
+    {
+      "id": "nhan-tai-080",
+      "loai": "Chữ",
+      "vi": "Khối Sản phẩm, đang giữ: Lan Vũ",
+      "en": "Product division, current holder: Lan Vũ"
+    },
+    {
+      "id": "nhan-tai-081",
+      "loai": "Nhãn",
+      "vi": "Rủi ro cao",
+      "en": "High risk"
+    },
+    {
+      "id": "nhan-tai-082",
+      "loai": "Chữ",
+      "vi": "M",
+      "en": "M"
+    },
+    {
+      "id": "nhan-tai-083",
+      "loai": "Chữ đậm",
+      "vi": "Minh Đỗ",
+      "en": "Minh Đỗ"
+    },
+    {
+      "id": "nhan-tai-084",
+      "loai": "Chữ nhỏ",
+      "vi": "Product Owner, năng lực 88%",
+      "en": "Product Owner, competency 88%"
+    },
+    {
+      "id": "nhan-tai-085",
+      "loai": "Nhãn",
+      "vi": "Sẵn sàng ngay",
+      "en": "Ready now"
+    },
+    {
+      "id": "nhan-tai-086",
+      "loai": "Chữ",
+      "vi": "H",
+      "en": "H"
+    },
+    {
+      "id": "nhan-tai-087",
+      "loai": "Chữ đậm",
+      "vi": "Hùng Trần",
+      "en": "Hùng Trần"
+    },
+    {
+      "id": "nhan-tai-088",
+      "loai": "Chữ nhỏ",
+      "vi": "Product Owner, năng lực 86%",
+      "en": "Product Owner, competency 86%"
+    },
+    {
+      "id": "nhan-tai-089",
+      "loai": "Nhãn",
+      "vi": "1–2 năm",
+      "en": "1–2 years"
+    },
+    {
+      "id": "nhan-tai-090",
+      "loai": "Chữ đậm",
+      "vi": "IDP của Hùng Trần",
+      "en": "Hùng Trần's IDP"
+    },
+    {
+      "id": "nhan-tai-091",
+      "loai": "Ý / dòng",
+      "vi": "Khoá Quản trị backlog nâng cao",
+      "en": "Advanced backlog management course"
+    },
+    {
+      "id": "nhan-tai-092",
+      "loai": "Ý / dòng",
+      "vi": "Kèm cặp cùng Lan Vũ, 3 tháng",
+      "en": "Mentoring with Lan Vũ, 3 months"
+    },
+    {
+      "id": "nhan-tai-093",
+      "loai": "Ý / dòng",
+      "vi": "Dẫn dắt 1 dự án liên phòng",
+      "en": "Lead 1 cross-team project"
+    },
+    {
+      "id": "nhan-tai-094",
+      "loai": "Đoạn chữ",
+      "vi": "15/06/2026, Mai Lê (HR) chuyển mức sẵn sàng từ \"Chưa đánh giá\" sang \"1–2 năm\"",
+      "en": "15/06/2026, Mai Lê (HR) changed readiness from \"Not assessed\" to \"1–2 years\""
+    },
+    {
+      "id": "nhan-tai-095",
+      "loai": "Đoạn chữ",
+      "vi": "Từ mục tiêu đến hiệu suất. Từ năng lực đến phát triển. Từ nhân viên đến nhân tài kế nhiệm.",
+      "en": "From goals to performance. From competency to growth. From employees to future successors."
+    },
+    {
+      "id": "nhan-tai-096",
+      "loai": "Đoạn chữ",
+      "vi": "Nền tảng giúp doanh nghiệp chuyển từ quản lý nhân sự sang quản trị nguồn lực có định hướng và dữ liệu.",
+      "en": "A platform that helps companies move from managing people to directing resources with purpose and data."
+    }
+  ]
+}

@@ -1,0 +1,605 @@
+{
+  "khoi": "04 · 12 nhóm chức năng",
+  "items": [
+    {
+      "id": "tinh-nang-001",
+      "loai": "Đoạn chữ",
+      "vi": "Khám phá hệ sinh thái XLINK",
+      "en": "Explore the XLINK ecosystem"
+    },
+    {
+      "id": "tinh-nang-002",
+      "loai": "Tiêu đề khối",
+      "vi": "Toàn bộ nghiệp vụ HRM trên một nền tảng duy nhất",
+      "en": "Every HRM process on one single platform"
+    },
+    {
+      "id": "tinh-nang-003",
+      "loai": "Đoạn chữ",
+      "vi": "12 nhóm chức năng, thiết kế theo từng nghiệp vụ và vai trò người dùng.",
+      "en": "12 feature groups, designed around each process and user role."
+    },
+    {
+      "id": "tinh-nang-004",
+      "loai": "Chữ đậm",
+      "vi": "A",
+      "en": "A"
+    },
+    {
+      "id": "tinh-nang-005",
+      "loai": "Chữ đậm",
+      "vi": "HR Operations",
+      "en": "HR Operations"
+    },
+    {
+      "id": "tinh-nang-006",
+      "loai": "Chữ",
+      "vi": "Quản trị vận hành, 5 chức năng",
+      "en": "Operations management, 5 features"
+    },
+    {
+      "id": "tinh-nang-007",
+      "loai": "Chữ đậm",
+      "vi": "B",
+      "en": "B"
+    },
+    {
+      "id": "tinh-nang-008",
+      "loai": "Chữ đậm",
+      "vi": "Talent Management",
+      "en": "Talent Management"
+    },
+    {
+      "id": "tinh-nang-009",
+      "loai": "Chữ",
+      "vi": "Phát triển nhân tài, 3 chức năng",
+      "en": "Talent development, 3 features"
+    },
+    {
+      "id": "tinh-nang-010",
+      "loai": "Chữ đậm",
+      "vi": "C",
+      "en": "C"
+    },
+    {
+      "id": "tinh-nang-011",
+      "loai": "Chữ đậm",
+      "vi": "AI & People Analytics",
+      "en": "AI & People Analytics"
+    },
+    {
+      "id": "tinh-nang-012",
+      "loai": "Chữ",
+      "vi": "Dữ liệu và trợ lý thông minh, 4 chức năng",
+      "en": "Data and smart assistant, 4 features"
+    },
+    {
+      "id": "tinh-nang-013",
+      "loai": "Chữ",
+      "vi": "<span class=\"acc-n\">01</span>Quản lý tổ chức & Hồ sơ nhân viên",
+      "en": "<span class=\"acc-n\">01</span>Organization &amp; Employee profiles"
+    },
+    {
+      "id": "tinh-nang-014",
+      "loai": "Chữ",
+      "vi": "Cơ cấu tổ chức, hồ sơ, hợp đồng, quyết định",
+      "en": "Org structure, profiles, contracts, decisions"
+    },
+    {
+      "id": "tinh-nang-015",
+      "loai": "Chữ",
+      "vi": "Cơ cấu công ty, chi nhánh, phòng ban, chức danh và toàn bộ thông tin nhân viên. Số hóa hồ sơ, hợp đồng, quyết định nhân sự và lịch sử thay đổi.",
+      "en": "Company structure, branches, departments, job titles and all employee information. Digital profiles, contracts, HR decisions and change history."
+    },
+    {
+      "id": "tinh-nang-016",
+      "loai": "Chữ",
+      "vi": "<span class=\"acc-n\">02</span>Chấm công, ca làm & Nghỉ phép",
+      "en": "<span class=\"acc-n\">02</span>Attendance, shifts &amp; Leave"
+    },
+    {
+      "id": "tinh-nang-017",
+      "loai": "Chữ",
+      "vi": "Ca làm, giờ vào/ra, nghỉ phép, tăng ca",
+      "en": "Shifts, clock-in/out, leave, overtime"
+    },
+    {
+      "id": "tinh-nang-018",
+      "loai": "Chữ",
+      "vi": "Thiết lập ca, phân lịch, ghi nhận giờ vào/ra, nghỉ phép, tăng ca và điều chỉnh công. Tự động tổng hợp dữ liệu phục vụ tính lương.",
+      "en": "Set up shifts and schedules, record clock-in/out, leave, overtime and attendance adjustments. Data is compiled automatically for payroll."
+    },
+    {
+      "id": "tinh-nang-019",
+      "loai": "Chữ",
+      "vi": "<span class=\"acc-n\">03</span>Tiền lương & Phúc lợi",
+      "en": "<span class=\"acc-n\">03</span>Payroll &amp; Benefits"
+    },
+    {
+      "id": "tinh-nang-020",
+      "loai": "Chữ",
+      "vi": "Kỳ lương, phụ cấp, bảo hiểm, thuế, phiếu lương",
+      "en": "Pay periods, allowances, insurance, tax, payslips"
+    },
+    {
+      "id": "tinh-nang-021",
+      "loai": "Chữ",
+      "vi": "Kỳ lương, lương cơ bản, phụ cấp, thưởng, khấu trừ, bảo hiểm và thuế theo cấu hình. Bảng lương, phiếu lương và báo cáo chi phí nhân sự.",
+      "en": "Pay periods, base salary, allowances, bonuses, deductions, insurance and tax by configuration. Payroll sheets, payslips and labor cost reports."
+    },
+    {
+      "id": "tinh-nang-022",
+      "loai": "Chữ",
+      "vi": "<span class=\"acc-n\">04</span>Tuyển dụng & Tiếp nhận nhân viên",
+      "en": "<span class=\"acc-n\">04</span>Recruiting &amp; Hiring"
+    },
+    {
+      "id": "tinh-nang-023",
+      "loai": "Chữ",
+      "vi": "Ứng viên, phỏng vấn, thư mời, tiếp nhận",
+      "en": "Candidates, interviews, offers, onboarding"
+    },
+    {
+      "id": "tinh-nang-024",
+      "loai": "Chữ",
+      "vi": "Yêu cầu tuyển dụng, ứng viên, vòng phỏng vấn, kết quả đánh giá và thư mời nhận việc, nối thẳng sang hồ sơ nhân viên và checklist tiếp nhận.",
+      "en": "Job requests, candidates, interview rounds, assessments and offer letters, linked straight to employee profiles and the onboarding checklist."
+    },
+    {
+      "id": "tinh-nang-025",
+      "loai": "Chữ",
+      "vi": "<span class=\"acc-n\">05</span>Onboarding & Offboarding",
+      "en": "<span class=\"acc-n\">05</span>Onboarding & Offboarding"
+    },
+    {
+      "id": "tinh-nang-026",
+      "loai": "Chữ",
+      "vi": "Checklist tiếp nhận, bàn giao khi nghỉ việc",
+      "en": "Onboarding checklist, handover when leaving"
+    },
+    {
+      "id": "tinh-nang-027",
+      "loai": "Chữ",
+      "vi": "Chuẩn hóa quy trình tiếp nhận và nghỉ việc, theo dõi từng hạng mục, bàn giao công việc, tài sản và hồ sơ.",
+      "en": "Standardize onboarding and offboarding, track every item, and hand over work, assets and records."
+    },
+    {
+      "id": "tinh-nang-028",
+      "loai": "Chú thích ảnh",
+      "vi": "Sơ đồ tổ chức trên XLINK",
+      "en": "Org chart in XLINK"
+    },
+    {
+      "id": "tinh-nang-029",
+      "loai": "Chú thích ảnh",
+      "vi": "Bảng công trên XLINK",
+      "en": "Timesheet in XLINK"
+    },
+    {
+      "id": "tinh-nang-030",
+      "loai": "Chú thích ảnh",
+      "vi": "Tiền lương trên XLINK",
+      "en": "Payroll in XLINK"
+    },
+    {
+      "id": "tinh-nang-031",
+      "loai": "Chú thích ảnh",
+      "vi": "Tuyển dụng trên XLINK",
+      "en": "Recruiting in XLINK"
+    },
+    {
+      "id": "tinh-nang-032",
+      "loai": "Chú thích ảnh",
+      "vi": "Hồ sơ và hợp đồng lao động trên XLINK",
+      "en": "Profiles and labor contracts in XLINK"
+    },
+    {
+      "id": "tinh-nang-033",
+      "loai": "Chữ",
+      "vi": "<span class=\"acc-n\">06</span>Quản trị hiệu suất – KPI/OKR",
+      "en": "<span class=\"acc-n\">06</span>Performance management – KPI/OKR"
+    },
+    {
+      "id": "tinh-nang-034",
+      "loai": "Chữ",
+      "vi": "Mục tiêu công ty xuống phòng ban, cá nhân",
+      "en": "Company goals cascaded to departments and people"
+    },
+    {
+      "id": "tinh-nang-035",
+      "loai": "Chữ",
+      "vi": "Đặt mục tiêu doanh nghiệp, phân bổ xuống phòng ban và cá nhân. Theo dõi kết quả, đánh giá định kỳ và quản lý kế hoạch cải thiện hiệu suất PIP.",
+      "en": "Set company goals and cascade them to departments and individuals. Track results, run periodic reviews and manage Performance Improvement Plans (PIP)."
+    },
+    {
+      "id": "tinh-nang-036",
+      "loai": "Chữ",
+      "vi": "<span class=\"acc-n\">07</span>Quản trị năng lực – Competency",
+      "en": "<span class=\"acc-n\">07</span>Competency management"
+    },
+    {
+      "id": "tinh-nang-037",
+      "loai": "Chữ",
+      "vi": "Khung năng lực, đánh giá 360°, khoảng cách",
+      "en": "Competency frameworks, 360° reviews, gaps"
+    },
+    {
+      "id": "tinh-nang-038",
+      "loai": "Chữ",
+      "vi": "Từ điển và khung năng lực theo vị trí. Đánh giá năng lực, đánh giá 360 độ và phân tích khoảng cách giữa năng lực hiện tại với yêu cầu công việc.",
+      "en": "Competency dictionary and frameworks by position. Competency reviews, 360-degree feedback and gap analysis against job requirements."
+    },
+    {
+      "id": "tinh-nang-039",
+      "loai": "Chữ",
+      "vi": "<span class=\"acc-n\">08</span>Đào tạo & Phát triển – LMS",
+      "en": "<span class=\"acc-n\">08</span>Training &amp; Development – LMS"
+    },
+    {
+      "id": "tinh-nang-040",
+      "loai": "Chữ",
+      "vi": "Khóa học, lộ trình học, tiến độ",
+      "en": "Courses, learning paths, progress"
+    },
+    {
+      "id": "tinh-nang-041",
+      "loai": "Chữ",
+      "vi": "Khóa học, video, tài liệu, bài kiểm tra và lộ trình học. Giao khóa học theo phòng ban, chức danh hoặc từng người; theo dõi tiến độ và kết quả.",
+      "en": "Courses, videos, documents, tests and learning paths. Assign courses by department, job title or person; track progress and results."
+    },
+    {
+      "id": "tinh-nang-042",
+      "loai": "Tiêu đề nhỏ",
+      "vi": "Mục tiêu 2026",
+      "en": "2026 goals"
+    },
+    {
+      "id": "tinh-nang-043",
+      "loai": "Nhãn",
+      "vi": "Đúng tiến độ",
+      "en": "On track"
+    },
+    {
+      "id": "tinh-nang-044",
+      "loai": "Chữ đậm",
+      "vi": "Doanh thu toàn công ty",
+      "en": "Company-wide revenue"
+    },
+    {
+      "id": "tinh-nang-045",
+      "loai": "Chữ nhỏ",
+      "vi": "120 tỷ, hết tháng 10",
+      "en": "VND 120B as of end of October"
+    },
+    {
+      "id": "tinh-nang-046",
+      "loai": "Chữ đậm",
+      "vi": "Khối Kinh doanh",
+      "en": "Sales division"
+    },
+    {
+      "id": "tinh-nang-047",
+      "loai": "Chữ nhỏ",
+      "vi": "64 tỷ",
+      "en": "VND 64B"
+    },
+    {
+      "id": "tinh-nang-048",
+      "loai": "Chữ đậm",
+      "vi": "Khối Sản xuất",
+      "en": "Manufacturing division"
+    },
+    {
+      "id": "tinh-nang-049",
+      "loai": "Chữ nhỏ",
+      "vi": "41 tỷ",
+      "en": "VND 41B"
+    },
+    {
+      "id": "tinh-nang-050",
+      "loai": "Chữ đậm",
+      "vi": "Kênh Online",
+      "en": "Online channel"
+    },
+    {
+      "id": "tinh-nang-051",
+      "loai": "Chữ nhỏ",
+      "vi": "15 tỷ",
+      "en": "VND 15B"
+    },
+    {
+      "id": "tinh-nang-052",
+      "loai": "Chữ",
+      "vi": "P",
+      "en": "P"
+    },
+    {
+      "id": "tinh-nang-053",
+      "loai": "Chữ đậm",
+      "vi": "Kế hoạch cải thiện (PIP)",
+      "en": "Performance improvement plan (PIP)"
+    },
+    {
+      "id": "tinh-nang-054",
+      "loai": "Chữ nhỏ",
+      "vi": "2 nhân sự, mốc theo dõi theo tuần",
+      "en": "2 employees, weekly checkpoints"
+    },
+    {
+      "id": "tinh-nang-055",
+      "loai": "Nhãn",
+      "vi": "Tuần 3/8",
+      "en": "Week 3 of 8"
+    },
+    {
+      "id": "tinh-nang-056",
+      "loai": "Chú thích ảnh",
+      "vi": "Ma trận 9-Box trên XLINK",
+      "en": "9-Box matrix in XLINK"
+    },
+    {
+      "id": "tinh-nang-057",
+      "loai": "Tiêu đề nhỏ",
+      "vi": "Lộ trình: Quản lý cửa hàng mới",
+      "en": "Learning path: New store managers"
+    },
+    {
+      "id": "tinh-nang-058",
+      "loai": "Chữ",
+      "vi": "Giao cho chức danh Trưởng cửa hàng, 18 người",
+      "en": "Assigned to the Store manager role, 18 people"
+    },
+    {
+      "id": "tinh-nang-059",
+      "loai": "Nhãn",
+      "vi": "Đang mở",
+      "en": "Open"
+    },
+    {
+      "id": "tinh-nang-060",
+      "loai": "Chữ đậm",
+      "vi": "Xếp ca và quản lý nhân sự",
+      "en": "Shift and people management"
+    },
+    {
+      "id": "tinh-nang-061",
+      "loai": "Chữ nhỏ",
+      "vi": "Video 45 phút, bài kiểm tra",
+      "en": "45-minute video, test"
+    },
+    {
+      "id": "tinh-nang-062",
+      "loai": "Chữ đậm",
+      "vi": "Đọc báo cáo doanh số",
+      "en": "Reading sales reports"
+    },
+    {
+      "id": "tinh-nang-063",
+      "loai": "Chữ nhỏ",
+      "vi": "Tài liệu và bài tập",
+      "en": "Documents and exercises"
+    },
+    {
+      "id": "tinh-nang-064",
+      "loai": "Chữ đậm",
+      "vi": "Kèm cặp 1-1 với Quản lý khu vực",
+      "en": "1:1 mentoring with the Area manager"
+    },
+    {
+      "id": "tinh-nang-065",
+      "loai": "Chữ nhỏ",
+      "vi": "Tháng 1/2027",
+      "en": "January 2027"
+    },
+    {
+      "id": "tinh-nang-066",
+      "loai": "Nhãn",
+      "vi": "Sắp tới",
+      "en": "Upcoming"
+    },
+    {
+      "id": "tinh-nang-067",
+      "loai": "Chữ",
+      "vi": "<span class=\"acc-n\">09</span>Báo cáo & Dashboard",
+      "en": "<span class=\"acc-n\">09</span>Reports &amp; Dashboard"
+    },
+    {
+      "id": "tinh-nang-068",
+      "loai": "Chữ",
+      "vi": "Biến động, công, lương, tuyển dụng, hiệu suất",
+      "en": "Headcount, attendance, payroll, recruiting, performance"
+    },
+    {
+      "id": "tinh-nang-069",
+      "loai": "Chữ",
+      "vi": "Biến động nhân sự, chấm công, tiền lương, tuyển dụng, đào tạo và hiệu suất trên hệ thống báo cáo trực quan.",
+      "en": "Headcount changes, attendance, payroll, recruiting, training and performance in visual reports."
+    },
+    {
+      "id": "tinh-nang-070",
+      "loai": "Chữ",
+      "vi": "<span class=\"acc-n\">10</span>AI Assistant",
+      "en": "<span class=\"acc-n\">10</span>AI Assistant"
+    },
+    {
+      "id": "tinh-nang-071",
+      "loai": "Chữ",
+      "vi": "Chính sách, tài liệu, nội dung tuyển dụng",
+      "en": "Policies, documents, recruiting content"
+    },
+    {
+      "id": "tinh-nang-072",
+      "loai": "Chữ",
+      "vi": "Hỏi đáp chính sách, tìm tài liệu, tạo nội dung tuyển dụng, hỗ trợ đánh giá và gợi ý nghiệp vụ HR.",
+      "en": "Policy Q&amp;A, document search, recruiting content, review support and HR task suggestions."
+    },
+    {
+      "id": "tinh-nang-073",
+      "loai": "Chữ",
+      "vi": "<span class=\"acc-n\">11</span>AI Performance & Competency",
+      "en": "<span class=\"acc-n\">11</span>AI Performance & Competency"
+    },
+    {
+      "id": "tinh-nang-074",
+      "loai": "Chữ",
+      "vi": "Gợi ý KPI, phân tích đánh giá",
+      "en": "KPI suggestions, review analysis"
+    },
+    {
+      "id": "tinh-nang-075",
+      "loai": "Chữ",
+      "vi": "Gợi ý KPI, phân tích kết quả đánh giá, nhận diện khoảng cách năng lực và đề xuất nội dung phát triển phù hợp.",
+      "en": "KPI suggestions, review analysis, competency gap detection and fitting development content."
+    },
+    {
+      "id": "tinh-nang-076",
+      "loai": "Chữ",
+      "vi": "<span class=\"acc-n\">12</span>AI People Analytics",
+      "en": "<span class=\"acc-n\">12</span>AI People Analytics"
+    },
+    {
+      "id": "tinh-nang-077",
+      "loai": "Chữ",
+      "vi": "Hỏi dữ liệu bằng ngôn ngữ tự nhiên",
+      "en": "Ask your data in natural language"
+    },
+    {
+      "id": "tinh-nang-078",
+      "loai": "Chữ",
+      "vi": "Khai thác dữ liệu bằng câu hỏi ngôn ngữ tự nhiên, tổng hợp thông tin và cung cấp góc nhìn hỗ trợ quyết định quản trị.",
+      "en": "Explore data with natural-language questions, summarize information and get insights to support management decisions."
+    },
+    {
+      "id": "tinh-nang-079",
+      "loai": "Chú thích ảnh",
+      "vi": "Tổng quan trên XLINK",
+      "en": "Overview in XLINK"
+    },
+    {
+      "id": "tinh-nang-080",
+      "loai": "Chú thích ảnh",
+      "vi": "Trợ lý AI trên XLINK",
+      "en": "AI Assistant in XLINK"
+    },
+    {
+      "id": "tinh-nang-081",
+      "loai": "Tiêu đề nhỏ",
+      "vi": "Gợi ý KPI từ Trợ lý XLINK",
+      "en": "KPI suggestions from the XLINK Assistant"
+    },
+    {
+      "id": "tinh-nang-082",
+      "loai": "Chữ",
+      "vi": "Chức danh: Nhân viên kinh doanh",
+      "en": "Role: Sales associate"
+    },
+    {
+      "id": "tinh-nang-083",
+      "loai": "Nhãn",
+      "vi": "AI",
+      "en": "AI"
+    },
+    {
+      "id": "tinh-nang-084",
+      "loai": "Chữ",
+      "vi": "K",
+      "en": "K"
+    },
+    {
+      "id": "tinh-nang-085",
+      "loai": "Chữ đậm",
+      "vi": "Doanh số cá nhân theo tháng",
+      "en": "Monthly personal sales"
+    },
+    {
+      "id": "tinh-nang-086",
+      "loai": "Chữ nhỏ",
+      "vi": "Trọng số gợi ý 50%",
+      "en": "Suggested weight 50%"
+    },
+    {
+      "id": "tinh-nang-087",
+      "loai": "Nhãn",
+      "vi": "Thêm",
+      "en": "Add"
+    },
+    {
+      "id": "tinh-nang-088",
+      "loai": "Chữ",
+      "vi": "K",
+      "en": "K"
+    },
+    {
+      "id": "tinh-nang-089",
+      "loai": "Chữ đậm",
+      "vi": "Tỷ lệ khách hàng quay lại",
+      "en": "Returning customer rate"
+    },
+    {
+      "id": "tinh-nang-090",
+      "loai": "Chữ nhỏ",
+      "vi": "Trọng số gợi ý 30%",
+      "en": "Suggested weight 30%"
+    },
+    {
+      "id": "tinh-nang-091",
+      "loai": "Nhãn",
+      "vi": "Thêm",
+      "en": "Add"
+    },
+    {
+      "id": "tinh-nang-092",
+      "loai": "Chữ",
+      "vi": "N",
+      "en": "N"
+    },
+    {
+      "id": "tinh-nang-093",
+      "loai": "Chữ đậm",
+      "vi": "Khoảng cách năng lực: Đàm phán",
+      "en": "Competency gap: Negotiation"
+    },
+    {
+      "id": "tinh-nang-094",
+      "loai": "Chữ nhỏ",
+      "vi": "Đề xuất khoá Kỹ năng chốt đơn",
+      "en": "Suggests the Closing skills course"
+    },
+    {
+      "id": "tinh-nang-095",
+      "loai": "Nhãn",
+      "vi": "Xem",
+      "en": "Xem"
+    },
+    {
+      "id": "tinh-nang-096",
+      "loai": "Tiêu đề nhỏ",
+      "vi": "Hỏi: Nhân sự thay đổi thế nào trong 12 tháng?",
+      "en": "Ask: How has headcount changed over 12 months?"
+    },
+    {
+      "id": "tinh-nang-097",
+      "loai": "Chữ",
+      "vi": "Trả lời theo dữ liệu hồ sơ nhân viên",
+      "en": "Answered from employee profile data"
+    },
+    {
+      "id": "tinh-nang-098",
+      "loai": "Đoạn chữ",
+      "vi": "Tổng nhân sự tăng từ <b>384</b> lên <b>430</b> người (+46), đạt đỉnh 439 vào tháng 4/2026.",
+      "en": "Headcount grew from <b>384</b> to <b>430</b> people (+46), peaking at 439 in April 2026."
+    },
+    {
+      "id": "tinh-nang-099",
+      "loai": "Đoạn chữ",
+      "vi": "Tỷ lệ nghỉ việc 12 tháng 2,4%.",
+      "en": "12-month turnover 2.4%."
+    },
+    {
+      "id": "tinh-nang-100",
+      "loai": "Đoạn chữ",
+      "vi": "Các chức năng được cung cấp theo phạm vi sản phẩm, phiên bản và gói dịch vụ tương ứng. Ảnh chụp và số liệu trong khung là dữ liệu mẫu.",
+      "en": "Features are provided according to the product scope, edition and service plan. Screenshots and figures shown are sample data."
+    }
+  ]
+}

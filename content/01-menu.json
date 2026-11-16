@@ -1,0 +1,59 @@
+{
+  "khoi": "Menu trên cùng",
+  "items": [
+    {
+      "id": "menu-001",
+      "loai": "Chữ",
+      "vi": "Mở menu",
+      "en": "Open menu"
+    },
+    {
+      "id": "menu-002",
+      "loai": "Link",
+      "vi": "Giải pháp",
+      "en": "Solutions"
+    },
+    {
+      "id": "menu-003",
+      "loai": "Link",
+      "vi": "Tính năng",
+      "en": "Features"
+    },
+    {
+      "id": "menu-004",
+      "loai": "Link",
+      "vi": "Nhân tài",
+      "en": "Talent"
+    },
+    {
+      "id": "menu-005",
+      "loai": "Link",
+      "vi": "Vì sao XLINK",
+      "en": "Why XLINK"
+    },
+    {
+      "id": "menu-006",
+      "loai": "Link",
+      "vi": "Triển khai",
+      "en": "Implementation"
+    },
+    {
+      "id": "menu-007",
+      "loai": "Nút",
+      "vi": "<span class=\"sr\">Ngôn ngữ: </span>VI",
+      "en": "<span class=\"sr\">Language: </span>EN"
+    },
+    {
+      "id": "menu-008",
+      "loai": "Link",
+      "vi": "Đăng nhập",
+      "en": "Log in"
+    },
+    {
+      "id": "menu-009",
+      "loai": "Link",
+      "vi": "Đăng ký trải nghiệm",
+      "en": "Request a trial"
+    }
+  ]
+}

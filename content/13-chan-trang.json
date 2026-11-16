@@ -1,0 +1,125 @@
+{
+  "khoi": "Chân trang",
+  "items": [
+    {
+      "id": "chan-trang-001",
+      "loai": "Tiêu đề cột",
+      "vi": "Giải pháp",
+      "en": "Solutions"
+    },
+    {
+      "id": "chan-trang-002",
+      "loai": "Link",
+      "vi": "HR Operations",
+      "en": "HR Operations"
+    },
+    {
+      "id": "chan-trang-003",
+      "loai": "Link",
+      "vi": "Talent Management",
+      "en": "Talent Management"
+    },
+    {
+      "id": "chan-trang-004",
+      "loai": "Link",
+      "vi": "AI & People Analytics",
+      "en": "AI & People Analytics"
+    },
+    {
+      "id": "chan-trang-005",
+      "loai": "Tiêu đề cột",
+      "vi": "Khám phá",
+      "en": "Explore"
+    },
+    {
+      "id": "chan-trang-006",
+      "loai": "Link",
+      "vi": "12 nhóm chức năng",
+      "en": "12 feature groups"
+    },
+    {
+      "id": "chan-trang-007",
+      "loai": "Link",
+      "vi": "Theo vai trò",
+      "en": "By role"
+    },
+    {
+      "id": "chan-trang-008",
+      "loai": "Link",
+      "vi": "Vì sao XLINK",
+      "en": "Why XLINK"
+    },
+    {
+      "id": "chan-trang-009",
+      "loai": "Link",
+      "vi": "Triển khai",
+      "en": "Implementation"
+    },
+    {
+      "id": "chan-trang-010",
+      "loai": "Tiêu đề cột",
+      "vi": "Bắt đầu",
+      "en": "Get started"
+    },
+    {
+      "id": "chan-trang-011",
+      "loai": "Link",
+      "vi": "Đăng ký trải nghiệm",
+      "en": "Request a trial"
+    },
+    {
+      "id": "chan-trang-012",
+      "loai": "Link",
+      "vi": "Đăng nhập",
+      "en": "Log in"
+    },
+    {
+      "id": "chan-trang-013",
+      "loai": "Tiêu đề cột",
+      "vi": "Sự kiện",
+      "en": "Event"
+    },
+    {
+      "id": "chan-trang-014",
+      "loai": "Chữ",
+      "vi": "TECH × HR 2027",
+      "en": "TECH × HR 2027"
+    },
+    {
+      "id": "chan-trang-015",
+      "loai": "Chữ",
+      "vi": "Viễn Đông Hotel, TP. HCM",
+      "en": "Viễn Đông Hotel, Ho Chi Minh City"
+    },
+    {
+      "id": "chan-trang-016",
+      "loai": "Tiêu đề cột",
+      "vi": "Liên hệ",
+      "en": "Contact"
+    },
+    {
+      "id": "chan-trang-017",
+      "loai": "Link",
+      "vi": "Hotline: 0348.259.886",
+      "en": "Hotline: 0348.259.886"
+    },
+    {
+      "id": "chan-trang-018",
+      "loai": "Link",
+      "vi": "academy@toplinks.com",
+      "en": "academy@toplinks.com"
+    },
+    {
+      "id": "chan-trang-019",
+      "loai": "Chữ",
+      "vi": "Powered by TOPLINKS",
+      "en": "Powered by TOPLINKS"
+    },
+    {
+      "id": "chan-trang-020",
+      "loai": "Đoạn chữ",
+      "vi": "© 2026 XLINK – Next-Level HR Management. Powered by TOPLINKS.",
+      "en": "© 2026 XLINK – Next-Level HR Management. Powered by TOPLINKS."
+    }
+  ]
+}

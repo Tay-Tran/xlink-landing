@@ -1,0 +1,575 @@
+{
+  "khoi": "06 · 4 vai trò + Not just the pay",
+  "items": [
+    {
+      "id": "vai-tro-001",
+      "loai": "Đoạn chữ",
+      "vi": "One system – four user experiences",
+      "en": "One system – four user experiences"
+    },
+    {
+      "id": "vai-tro-002",
+      "loai": "Tiêu đề khối",
+      "vi": "Một hệ thống – mỗi vai trò một giá trị",
+      "en": "One system – value for every role"
+    },
+    {
+      "id": "vai-tro-003",
+      "loai": "Đoạn chữ",
+      "vi": "XLINK không chỉ dành cho HR. Mỗi nhóm người dùng nhận đúng thông tin và công cụ theo trách nhiệm của mình.",
+      "en": "XLINK is not just for HR. Each user group gets the information and tools that match their responsibilities."
+    },
+    {
+      "id": "vai-tro-004",
+      "loai": "Chữ",
+      "vi": "CEO & Ban lãnh đạo",
+      "en": "CEO &amp; Leadership"
+    },
+    {
+      "id": "vai-tro-005",
+      "loai": "Chữ",
+      "vi": "HR & HR Leaders",
+      "en": "HR & HR Leaders"
+    },
+    {
+      "id": "vai-tro-006",
+      "loai": "Chữ",
+      "vi": "Managers",
+      "en": "Managers"
+    },
+    {
+      "id": "vai-tro-007",
+      "loai": "Chữ",
+      "vi": "Employees",
+      "en": "Employees"
+    },
+    {
+      "id": "vai-tro-008",
+      "loai": "Đoạn chữ",
+      "vi": "CEO & Ban lãnh đạo",
+      "en": "CEO &amp; Leadership"
+    },
+    {
+      "id": "vai-tro-009",
+      "loai": "Tiêu đề nhỏ",
+      "vi": "Quản trị bằng dữ liệu",
+      "en": "Lead with data"
+    },
+    {
+      "id": "vai-tro-010",
+      "loai": "Ý / dòng",
+      "vi": "Tổng quan nguồn lực và biến động nhân sự",
+      "en": "Overview of workforce and headcount changes"
+    },
+    {
+      "id": "vai-tro-011",
+      "loai": "Ý / dòng",
+      "vi": "Chi phí nhân sự và kết quả hiệu suất",
+      "en": "Labor costs and performance results"
+    },
+    {
+      "id": "vai-tro-012",
+      "loai": "Ý / dòng",
+      "vi": "Nhận diện vấn đề về năng lực và đội ngũ",
+      "en": "Spot competency and team issues"
+    },
+    {
+      "id": "vai-tro-013",
+      "loai": "Ý / dòng",
+      "vi": "Thông tin hỗ trợ hoạch định và ra quyết định",
+      "en": "Information for planning and decisions"
+    },
+    {
+      "id": "vai-tro-014",
+      "loai": "Link",
+      "vi": "Xem XLINK cho vai trò này <span aria-hidden=\"true\">→</span>",
+      "en": "See XLINK for this role <span aria-hidden=\"true\">→</span>"
+    },
+    {
+      "id": "vai-tro-015",
+      "loai": "Tiêu đề nhỏ",
+      "vi": "Tổng quan nguồn lực",
+      "en": "Workforce overview"
+    },
+    {
+      "id": "vai-tro-016",
+      "loai": "Chữ",
+      "vi": "Toàn công ty, tháng 10/2026",
+      "en": "Whole company, October 2026"
+    },
+    {
+      "id": "vai-tro-017",
+      "loai": "Nhãn",
+      "vi": "Cập nhật hôm nay",
+      "en": "Updated today"
+    },
+    {
+      "id": "vai-tro-018",
+      "loai": "Chữ nhỏ",
+      "vi": "Nhân sự, +46 trong 12 tháng",
+      "en": "Employees, +46 in 12 months"
+    },
+    {
+      "id": "vai-tro-019",
+      "loai": "Chữ đậm",
+      "vi": "1.521,8 tr",
+      "en": "VND 1.52 bn"
+    },
+    {
+      "id": "vai-tro-020",
+      "loai": "Chữ nhỏ",
+      "vi": "Chi phí lương kỳ gần nhất",
+      "en": "Latest payroll cost"
+    },
+    {
+      "id": "vai-tro-021",
+      "loai": "Chữ đậm",
+      "vi": "Hoàn thành mục tiêu năm",
+      "en": "Annual goal progress"
+    },
+    {
+      "id": "vai-tro-022",
+      "loai": "Chữ nhỏ",
+      "vi": "Doanh thu 120 tỷ",
+      "en": "Revenue 120 bn VND"
+    },
+    {
+      "id": "vai-tro-023",
+      "loai": "Chữ đậm",
+      "vi": "Nghỉ việc 12 tháng",
+      "en": "12-month turnover"
+    },
+    {
+      "id": "vai-tro-024",
+      "loai": "Chữ nhỏ",
+      "vi": "Thấp hơn cùng kỳ",
+      "en": "Lower than last year"
+    },
+    {
+      "id": "vai-tro-025",
+      "loai": "Chữ đậm",
+      "vi": "3 vị trí then chốt rủi ro kế nhiệm cao",
+      "en": "3 key roles at high succession risk"
+    },
+    {
+      "id": "vai-tro-026",
+      "loai": "Chữ nhỏ",
+      "vi": "Trưởng phòng Sản phẩm, Kế toán trưởng, Quản lý Kho",
+      "en": "Head of Product, Chief Accountant, Warehouse Manager"
+    },
+    {
+      "id": "vai-tro-027",
+      "loai": "Đoạn chữ",
+      "vi": "HR & HR Leaders",
+      "en": "HR & HR Leaders"
+    },
+    {
+      "id": "vai-tro-028",
+      "loai": "Tiêu đề nhỏ",
+      "vi": "Vận hành hiệu quả, nâng tầm chiến lược",
+      "en": "Run efficiently, act strategically"
+    },
+    {
+      "id": "vai-tro-029",
+      "loai": "Ý / dòng",
+      "vi": "Dữ liệu và nghiệp vụ tập trung",
+      "en": "Centralized data and processes"
+    },
+    {
+      "id": "vai-tro-030",
+      "loai": "Ý / dòng",
+      "vi": "Tự động hóa quy trình và phê duyệt",
+      "en": "Automated processes and approvals"
+    },
+    {
+      "id": "vai-tro-031",
+      "loai": "Ý / dòng",
+      "vi": "Tuyển dụng, lương, KPI, năng lực và đào tạo",
+      "en": "Recruiting, payroll, KPIs, competency and training"
+    },
+    {
+      "id": "vai-tro-032",
+      "loai": "Ý / dòng",
+      "vi": "Báo cáo để tư vấn cho lãnh đạo",
+      "en": "Reports to advise leadership"
+    },
+    {
+      "id": "vai-tro-033",
+      "loai": "Link",
+      "vi": "Xem XLINK cho vai trò này <span aria-hidden=\"true\">→</span>",
+      "en": "See XLINK for this role <span aria-hidden=\"true\">→</span>"
+    },
+    {
+      "id": "vai-tro-034",
+      "loai": "Tiêu đề nhỏ",
+      "vi": "Việc cần xử lý hôm nay",
+      "en": "To do today"
+    },
+    {
+      "id": "vai-tro-035",
+      "loai": "Chữ",
+      "vi": "Phòng Nhân sự",
+      "en": "HR department"
+    },
+    {
+      "id": "vai-tro-036",
+      "loai": "Nhãn",
+      "vi": "4 việc",
+      "en": "4 tasks"
+    },
+    {
+      "id": "vai-tro-037",
+      "loai": "Chữ",
+      "vi": "Đ",
+      "en": "Đ"
+    },
+    {
+      "id": "vai-tro-038",
+      "loai": "Chữ đậm",
+      "vi": "12 đơn chờ duyệt",
+      "en": "12 requests to approve"
+    },
+    {
+      "id": "vai-tro-039",
+      "loai": "Chữ nhỏ",
+      "vi": "Nghỉ phép, tăng ca, bổ sung công",
+      "en": "Leave, overtime, attendance fixes"
+    },
+    {
+      "id": "vai-tro-040",
+      "loai": "Nhãn",
+      "vi": "Duyệt",
+      "en": "Approve"
+    },
+    {
+      "id": "vai-tro-041",
+      "loai": "Chữ",
+      "vi": "H",
+      "en": "H"
+    },
+    {
+      "id": "vai-tro-042",
+      "loai": "Chữ đậm",
+      "vi": "4 hợp đồng sắp hết hạn",
+      "en": "4 contracts expiring soon"
+    },
+    {
+      "id": "vai-tro-043",
+      "loai": "Chữ nhỏ",
+      "vi": "Trong 30 ngày tới",
+      "en": "In the next 30 days"
+    },
+    {
+      "id": "vai-tro-044",
+      "loai": "Nhãn",
+      "vi": "Tái ký",
+      "en": "Renew"
+    },
+    {
+      "id": "vai-tro-045",
+      "loai": "Chữ",
+      "vi": "Q",
+      "en": "Q"
+    },
+    {
+      "id": "vai-tro-046",
+      "loai": "Chữ đậm",
+      "vi": "Đánh giá Quý 4/2026",
+      "en": "Q4 2026 review"
+    },
+    {
+      "id": "vai-tro-047",
+      "loai": "Chữ nhỏ",
+      "vi": "Quản lý đã chấm 54%",
+      "en": "Managers have scored 54%"
+    },
+    {
+      "id": "vai-tro-048",
+      "loai": "Nhãn",
+      "vi": "Nhắc",
+      "en": "Remind"
+    },
+    {
+      "id": "vai-tro-049",
+      "loai": "Chữ",
+      "vi": "L",
+      "en": "L"
+    },
+    {
+      "id": "vai-tro-050",
+      "loai": "Chữ đậm",
+      "vi": "Kỳ lương tháng 11",
+      "en": "November payroll"
+    },
+    {
+      "id": "vai-tro-051",
+      "loai": "Chữ nhỏ",
+      "vi": "Chờ chốt bảng công",
+      "en": "Waiting for timesheet lock"
+    },
+    {
+      "id": "vai-tro-052",
+      "loai": "Nhãn",
+      "vi": "Mở",
+      "en": "Open"
+    },
+    {
+      "id": "vai-tro-053",
+      "loai": "Đoạn chữ",
+      "vi": "Managers",
+      "en": "Managers"
+    },
+    {
+      "id": "vai-tro-054",
+      "loai": "Tiêu đề nhỏ",
+      "vi": "Dẫn dắt đội ngũ tốt hơn",
+      "en": "Lead teams better"
+    },
+    {
+      "id": "vai-tro-055",
+      "loai": "Ý / dòng",
+      "vi": "Giao mục tiêu và theo dõi KPI",
+      "en": "Set goals and track KPIs"
+    },
+    {
+      "id": "vai-tro-056",
+      "loai": "Ý / dòng",
+      "vi": "Theo dõi kết quả công việc",
+      "en": "Track work results"
+    },
+    {
+      "id": "vai-tro-057",
+      "loai": "Ý / dòng",
+      "vi": "Đánh giá và phản hồi nhân viên",
+      "en": "Review and give feedback to employees"
+    },
+    {
+      "id": "vai-tro-058",
+      "loai": "Ý / dòng",
+      "vi": "Nhận diện nhu cầu đào tạo, phát triển",
+      "en": "Spot training and development needs"
+    },
+    {
+      "id": "vai-tro-059",
+      "loai": "Link",
+      "vi": "Xem XLINK cho vai trò này <span aria-hidden=\"true\">→</span>",
+      "en": "See XLINK for this role <span aria-hidden=\"true\">→</span>"
+    },
+    {
+      "id": "vai-tro-060",
+      "loai": "Tiêu đề nhỏ",
+      "vi": "Đội Kinh doanh miền Nam",
+      "en": "Southern Sales team"
+    },
+    {
+      "id": "vai-tro-061",
+      "loai": "Chữ",
+      "vi": "KPI tháng 11, 6 thành viên",
+      "en": "November KPIs, 6 members"
+    },
+    {
+      "id": "vai-tro-062",
+      "loai": "Nhãn",
+      "vi": "84% trung bình",
+      "en": "84% average"
+    },
+    {
+      "id": "vai-tro-063",
+      "loai": "Chữ đậm",
+      "vi": "Trần Minh Khoa",
+      "en": "Trần Minh Khoa"
+    },
+    {
+      "id": "vai-tro-064",
+      "loai": "Chữ nhỏ",
+      "vi": "4 KPI",
+      "en": "4 KPI"
+    },
+    {
+      "id": "vai-tro-065",
+      "loai": "Chữ đậm",
+      "vi": "Nguyễn Thị Lan",
+      "en": "Nguyễn Thị Lan"
+    },
+    {
+      "id": "vai-tro-066",
+      "loai": "Chữ nhỏ",
+      "vi": "4 KPI",
+      "en": "4 KPI"
+    },
+    {
+      "id": "vai-tro-067",
+      "loai": "Chữ đậm",
+      "vi": "Phạm Quốc Khánh",
+      "en": "Phạm Quốc Khánh"
+    },
+    {
+      "id": "vai-tro-068",
+      "loai": "Chữ nhỏ",
+      "vi": "3 KPI",
+      "en": "3 KPI"
+    },
+    {
+      "id": "vai-tro-069",
+      "loai": "Chữ đậm",
+      "vi": "Trần Văn Tâm",
+      "en": "Trần Văn Tâm"
+    },
+    {
+      "id": "vai-tro-070",
+      "loai": "Chữ nhỏ",
+      "vi": "3 KPI, đang có PIP",
+      "en": "3 KPIs, on a PIP"
+    },
+    {
+      "id": "vai-tro-071",
+      "loai": "Chữ",
+      "vi": "T",
+      "en": "T"
+    },
+    {
+      "id": "vai-tro-072",
+      "loai": "Chữ đậm",
+      "vi": "Gợi ý: kèm cặp Trần Văn Tâm",
+      "en": "Suggestion: coach Trần Văn Tâm"
+    },
+    {
+      "id": "vai-tro-073",
+      "loai": "Chữ nhỏ",
+      "vi": "Khoá Kỹ năng chốt đơn, hạn 30/11",
+      "en": "Closing skills course, due 30 Nov"
+    },
+    {
+      "id": "vai-tro-074",
+      "loai": "Nhãn",
+      "vi": "Phản hồi",
+      "en": "Feedback"
+    },
+    {
+      "id": "vai-tro-075",
+      "loai": "Đoạn chữ",
+      "vi": "Employees",
+      "en": "Employees"
+    },
+    {
+      "id": "vai-tro-076",
+      "loai": "Tiêu đề nhỏ",
+      "vi": "Chủ động công việc, phát triển bản thân",
+      "en": "Own their work, grow themselves"
+    },
+    {
+      "id": "vai-tro-077",
+      "loai": "Ý / dòng",
+      "vi": "Hồ sơ, lịch làm việc và quyền lợi",
+      "en": "Profile, schedule and benefits"
+    },
+    {
+      "id": "vai-tro-078",
+      "loai": "Ý / dòng",
+      "vi": "Chấm công, nghỉ phép, xem phiếu lương",
+      "en": "Clock in, request leave, view payslips"
+    },
+    {
+      "id": "vai-tro-079",
+      "loai": "Ý / dòng",
+      "vi": "Mục tiêu và kết quả đánh giá của mình",
+      "en": "Their goals and review results"
+    },
+    {
+      "id": "vai-tro-080",
+      "loai": "Ý / dòng",
+      "vi": "Học tập và phát triển năng lực",
+      "en": "Learn and build competencies"
+    },
+    {
+      "id": "vai-tro-081",
+      "loai": "Link",
+      "vi": "Xem XLINK cho vai trò này <span aria-hidden=\"true\">→</span>",
+      "en": "See XLINK for this role <span aria-hidden=\"true\">→</span>"
+    },
+    {
+      "id": "vai-tro-082",
+      "loai": "Chữ đậm",
+      "vi": "Của tôi",
+      "en": "My space"
+    },
+    {
+      "id": "vai-tro-083",
+      "loai": "Chữ",
+      "vi": "<em>Phép năm còn lại</em>8,5 ngày",
+      "en": "<em>Annual leave left</em>8.5 days"
+    },
+    {
+      "id": "vai-tro-084",
+      "loai": "Chữ",
+      "vi": "<em>Phiếu lương tháng 10</em>Đã có",
+      "en": "<em>October payslip</em>Available"
+    },
+    {
+      "id": "vai-tro-085",
+      "loai": "Chữ",
+      "vi": "<em>KPI tháng 11</em>84%",
+      "en": "<em>November KPI</em>84%"
+    },
+    {
+      "id": "vai-tro-086",
+      "loai": "Chữ",
+      "vi": "<em>Khoá học đang học</em>60%",
+      "en": "<em>Course in progress</em>60%"
+    },
+    {
+      "id": "vai-tro-087",
+      "loai": "Chữ",
+      "vi": "<em>Ca làm ngày mai</em>Ca sáng 08:00",
+      "en": "<em>Tomorrow's shift</em>Morning 08:00"
+    },
+    {
+      "id": "vai-tro-088",
+      "loai": "Chữ",
+      "vi": "Chấm công vào ca",
+      "en": "Clock in"
+    },
+    {
+      "id": "vai-tro-089",
+      "loai": "Đoạn chữ",
+      "vi": "Not just the pay",
+      "en": "Not just the pay"
+    },
+    {
+      "id": "vai-tro-090",
+      "loai": "Tiêu đề nhỏ",
+      "vi": "Thế hệ nhân sự mới đi làm vì nhiều lý do hơn một mức lương",
+      "en": "The new generation works for more than a paycheck"
+    },
+    {
+      "id": "vai-tro-091",
+      "loai": "Đoạn chữ",
+      "vi": "Họ cần được ghi nhận, được phát triển, được kết nối và nhìn thấy tương lai của mình trong tổ chức. XLINK giúp doanh nghiệp quản trị minh bạch hơn, để mỗi nhân viên hiểu rõ vai trò, mục tiêu và hành trình phát triển của mình.",
+      "en": "They want to be recognized, to grow, to be connected and to see their future in the organization. XLINK helps companies manage more transparently, so every employee understands their role, goals and growth path."
+    },
+    {
+      "id": "vai-tro-092",
+      "loai": "Ý / dòng",
+      "vi": "Được ghi nhận",
+      "en": "Recognized"
+    },
+    {
+      "id": "vai-tro-093",
+      "loai": "Ý / dòng",
+      "vi": "Được phát triển",
+      "en": "Growing"
+    },
+    {
+      "id": "vai-tro-094",
+      "loai": "Ý / dòng",
+      "vi": "Được kết nối",
+      "en": "Connected"
+    },
+    {
+      "id": "vai-tro-095",
+      "loai": "Ý / dòng",
+      "vi": "Thấy tương lai",
+      "en": "A clear future"
+    }
+  ]
+}

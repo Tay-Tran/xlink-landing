@@ -1,0 +1,233 @@
+{
+  "khoi": "09 · Đăng ký + form",
+  "items": [
+    {
+      "id": "dang-ky-001",
+      "loai": "Tiêu đề khối",
+      "vi": "Sẵn sàng nâng cấp cách doanh nghiệp quản trị và phát triển con người?",
+      "en": "Ready to upgrade how your company manages and develops people?"
+    },
+    {
+      "id": "dang-ky-002",
+      "loai": "Đoạn chữ",
+      "vi": "Đừng để dữ liệu phân tán, quy trình thủ công và thiếu thông tin cản trở sự phát triển. Khám phá cách XLINK kết nối công nghệ, chuyên môn HR và dữ liệu để tổ chức vận hành hiệu quả hơn, quản trị tốt hơn và phát triển đội ngũ bền vững hơn.",
+      "en": "Do not let scattered data, manual processes and missing information hold your company back. See how XLINK connects technology, HR expertise and data so your organization runs better, manages better and grows its team sustainably."
+    },
+    {
+      "id": "dang-ky-003",
+      "loai": "Chữ",
+      "vi": "Đội ngũ TOPLINKS tư vấn",
+      "en": "Advice from the TOPLINKS team"
+    },
+    {
+      "id": "dang-ky-004",
+      "loai": "Tiêu đề nhỏ",
+      "vi": "Đăng ký trải nghiệm XLINK",
+      "en": "Request an XLINK trial"
+    },
+    {
+      "id": "dang-ky-005",
+      "loai": "Đoạn chữ",
+      "vi": "Để lại thông tin, đội ngũ TOPLINKS sẽ liên hệ tư vấn và đề xuất giải pháp phù hợp với nhu cầu doanh nghiệp.",
+      "en": "Leave your details and the TOPLINKS team will contact you with advice and a solution that fits your needs."
+    },
+    {
+      "id": "dang-ky-006",
+      "loai": "Ý / dòng",
+      "vi": "Chia sẻ nhu cầu và hiện trạng",
+      "en": "Share your needs and current state"
+    },
+    {
+      "id": "dang-ky-007",
+      "loai": "Ý / dòng",
+      "vi": "Nhận tư vấn phạm vi giải pháp phù hợp",
+      "en": "Get advice on the right solution scope"
+    },
+    {
+      "id": "dang-ky-008",
+      "loai": "Ý / dòng",
+      "vi": "Xem demo XLINK theo đúng nghiệp vụ",
+      "en": "See an XLINK demo for your processes"
+    },
+    {
+      "id": "dang-ky-009",
+      "loai": "Nút",
+      "vi": "Đăng ký demo ngay",
+      "en": "Book a demo now"
+    },
+    {
+      "id": "dang-ky-010",
+      "loai": "Chữ",
+      "vi": "Liên hệ trực tiếp",
+      "en": "Contact us directly"
+    },
+    {
+      "id": "dang-ky-011",
+      "loai": "Tiêu đề nhỏ",
+      "vi": "Trao đổi với TOPLINKS",
+      "en": "Talk to TOPLINKS"
+    },
+    {
+      "id": "dang-ky-012",
+      "loai": "Chữ nhỏ",
+      "vi": "Hotline",
+      "en": "Hotline"
+    },
+    {
+      "id": "dang-ky-013",
+      "loai": "Chữ nhỏ",
+      "vi": "Email",
+      "en": "Email"
+    },
+    {
+      "id": "dang-ky-014",
+      "loai": "Link",
+      "vi": "academy@toplinks.com",
+      "en": "academy@toplinks.com"
+    },
+    {
+      "id": "dang-ky-015",
+      "loai": "Đoạn chữ",
+      "vi": "Powered by TOPLINKS",
+      "en": "Powered by TOPLINKS"
+    },
+    {
+      "id": "dang-ky-016",
+      "loai": "Tiêu đề nhỏ",
+      "vi": "Đăng ký trải nghiệm XLINK",
+      "en": "Request an XLINK trial"
+    },
+    {
+      "id": "dang-ky-017",
+      "loai": "Nút",
+      "vi": "×",
+      "en": "×"
+    },
+    {
+      "id": "dang-ky-018",
+      "loai": "Đoạn chữ",
+      "vi": "Đội ngũ TOPLINKS sẽ liên hệ tư vấn và đề xuất giải pháp phù hợp với nhu cầu doanh nghiệp.",
+      "en": "The TOPLINKS team will contact you with advice and a solution that fits your needs."
+    },
+    {
+      "id": "dang-ky-019",
+      "loai": "Nhãn ô nhập",
+      "vi": "Họ và tên",
+      "en": "Full name"
+    },
+    {
+      "id": "dang-ky-020",
+      "loai": "Nhãn ô nhập",
+      "vi": "Chức danh",
+      "en": "Job title"
+    },
+    {
+      "id": "dang-ky-021",
+      "loai": "Nhãn ô nhập",
+      "vi": "Tên doanh nghiệp",
+      "en": "Company name"
+    },
+    {
+      "id": "dang-ky-022",
+      "loai": "Nhãn ô nhập",
+      "vi": "Quy mô nhân sự",
+      "en": "Company size"
+    },
+    {
+      "id": "dang-ky-023",
+      "loai": "Lựa chọn",
+      "vi": "Chọn quy mô",
+      "en": "Select size"
+    },
+    {
+      "id": "dang-ky-024",
+      "loai": "Lựa chọn",
+      "vi": "Dưới 50",
+      "en": "Under 50"
+    },
+    {
+      "id": "dang-ky-025",
+      "loai": "Lựa chọn",
+      "vi": "Trên 1.000",
+      "en": "Over 1,000"
+    },
+    {
+      "id": "dang-ky-026",
+      "loai": "Nhãn ô nhập",
+      "vi": "Số điện thoại",
+      "en": "Phone number"
+    },
+    {
+      "id": "dang-ky-027",
+      "loai": "Nhãn ô nhập",
+      "vi": "Email",
+      "en": "Email"
+    },
+    {
+      "id": "dang-ky-028",
+      "loai": "Nhãn nhóm",
+      "vi": "Nhu cầu quan tâm <span class=\"opt\">(chọn một hoặc nhiều)</span>",
+      "en": "Areas of interest <span class=\"opt\">(choose one or more)</span>"
+    },
+    {
+      "id": "dang-ky-029",
+      "loai": "Chữ",
+      "vi": "Vận hành nhân sự",
+      "en": "HR operations"
+    },
+    {
+      "id": "dang-ky-030",
+      "loai": "Chữ",
+      "vi": "Tiền lương & phúc lợi",
+      "en": "Payroll &amp; benefits"
+    },
+    {
+      "id": "dang-ky-031",
+      "loai": "Chữ",
+      "vi": "Tuyển dụng & onboarding",
+      "en": "Recruiting &amp; onboarding"
+    },
+    {
+      "id": "dang-ky-032",
+      "loai": "Chữ",
+      "vi": "KPI & hiệu suất",
+      "en": "KPIs &amp; performance"
+    },
+    {
+      "id": "dang-ky-033",
+      "loai": "Chữ",
+      "vi": "Năng lực & đánh giá",
+      "en": "Competency &amp; reviews"
+    },
+    {
+      "id": "dang-ky-034",
+      "loai": "Chữ",
+      "vi": "Đào tạo (LMS)",
+      "en": "Training (LMS)"
+    },
+    {
+      "id": "dang-ky-035",
+      "loai": "Chữ",
+      "vi": "AI & báo cáo",
+      "en": "AI &amp; reporting"
+    },
+    {
+      "id": "dang-ky-036",
+      "loai": "Chữ",
+      "vi": "Tư vấn triển khai",
+      "en": "Implementation consulting"
+    },
+    {
+      "id": "dang-ky-037",
+      "loai": "Nhãn ô nhập",
+      "vi": "Nội dung cần tư vấn <span class=\"opt\">(không bắt buộc)</span>",
+      "en": "What would you like to discuss? <span class=\"opt\">(optional)</span>"
+    },
+    {
+      "id": "dang-ky-038",
+      "loai": "Nút",
+      "vi": "Đăng ký demo ngay",
+      "en": "Book a demo now"
+    }
+  ]
+}

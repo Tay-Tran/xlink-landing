@@ -1,0 +1,365 @@
+{
+  "khoi": "02 · Thách thức",
+  "items": [
+    {
+      "id": "thach-thuc-001",
+      "loai": "Đoạn chữ",
+      "vi": "Bài toán doanh nghiệp",
+      "en": "The business challenge"
+    },
+    {
+      "id": "thach-thuc-002",
+      "loai": "Tiêu đề khối",
+      "vi": "Doanh nghiệp cần nhiều hơn một phần mềm quản lý nhân sự",
+      "en": "Companies need more than HR software"
+    },
+    {
+      "id": "thach-thuc-003",
+      "loai": "Đoạn chữ",
+      "vi": "Khi doanh nghiệp phát triển, số lượng nhân viên tăng lên, cơ cấu tổ chức phức tạp hơn và yêu cầu quản trị ngày càng cao. Nhưng dữ liệu vẫn nằm ở nhiều nơi, quy trình chưa liên thông, HR mất nhiều thời gian xử lý thủ công và nhà quản lý chưa đủ thông tin để ra quyết định.",
+      "en": "As a company grows, headcount rises, the organization becomes more complex and management demands increase. Yet data still sits in many places, processes are not connected, HR spends hours on manual work and managers lack the information to make decisions."
+    },
+    {
+      "id": "thach-thuc-004",
+      "loai": "Đoạn chữ",
+      "vi": "Đó không chỉ là vấn đề của HR. Đó là vấn đề của toàn bộ tổ chức.",
+      "en": "This is not just an HR problem. It is a problem for the whole organization."
+    },
+    {
+      "id": "thach-thuc-005",
+      "loai": "Chữ",
+      "vi": "Thách thức 01",
+      "en": "Challenge 01"
+    },
+    {
+      "id": "thach-thuc-006",
+      "loai": "Tiêu đề nhỏ",
+      "vi": "Dữ liệu phân mảnh, thiếu kết nối",
+      "en": "Fragmented, disconnected data"
+    },
+    {
+      "id": "thach-thuc-007",
+      "loai": "Đoạn chữ",
+      "vi": "Hồ sơ, hợp đồng, chấm công, tiền lương nằm trên nhiều công cụ khác nhau. Dữ liệu thiếu đồng nhất khiến tra cứu, tổng hợp và kiểm soát trở nên khó khăn.",
+      "en": "Profiles, contracts, attendance and payroll live in different tools. Inconsistent data makes lookups, reporting and control difficult."
+    },
+    {
+      "id": "thach-thuc-008",
+      "loai": "Chữ",
+      "vi": "Dữ liệu",
+      "en": "Data"
+    },
+    {
+      "id": "thach-thuc-009",
+      "loai": "Chữ đậm",
+      "vi": "Dữ liệu nhân sự đang ở đâu?",
+      "en": "Where does your HR data live?"
+    },
+    {
+      "id": "thach-thuc-010",
+      "loai": "Chữ",
+      "vi": "<em>Hồ sơ</em>Tủ hồ sơ giấy",
+      "en": "<em>Profiles</em>Paper files"
+    },
+    {
+      "id": "thach-thuc-011",
+      "loai": "Chữ",
+      "vi": "<em>Chấm công</em>Excel từng chi nhánh",
+      "en": "<em>Attendance</em>Excel per branch"
+    },
+    {
+      "id": "thach-thuc-012",
+      "loai": "Chữ",
+      "vi": "<em>Tiền lương</em>File riêng của kế toán",
+      "en": "<em>Payroll</em>Accountant's own file"
+    },
+    {
+      "id": "thach-thuc-013",
+      "loai": "Chữ",
+      "vi": "<em>Duyệt phép</em>Nhóm chat",
+      "en": "<em>Leave approval</em>Group chat"
+    },
+    {
+      "id": "thach-thuc-014",
+      "loai": "Chữ nhỏ",
+      "vi": "4 nơi lưu, số liệu không khớp nhau",
+      "en": "4 places, numbers that don't match"
+    },
+    {
+      "id": "thach-thuc-015",
+      "loai": "Chữ",
+      "vi": "Thách thức 02",
+      "en": "Challenge 02"
+    },
+    {
+      "id": "thach-thuc-016",
+      "loai": "Tiêu đề nhỏ",
+      "vi": "Vận hành thủ công, tốn nguồn lực",
+      "en": "Manual operations that drain resources"
+    },
+    {
+      "id": "thach-thuc-017",
+      "loai": "Đoạn chữ",
+      "vi": "Tuyển dụng, phê duyệt, nghỉ phép, chấm công, tính lương và báo cáo phụ thuộc nhiều vào thao tác tay. HR bận việc hành chính thay vì các hoạt động tạo giá trị.",
+      "en": "Recruiting, approvals, leave, attendance, payroll and reporting depend on manual work. HR is busy with admin instead of value-creating work."
+    },
+    {
+      "id": "thach-thuc-018",
+      "loai": "Chữ",
+      "vi": "Vận hành",
+      "en": "Operations"
+    },
+    {
+      "id": "thach-thuc-019",
+      "loai": "Đoạn chữ",
+      "vi": "<b>37 đơn đang chờ xử lý tay</b> nghỉ phép, tăng ca, bổ sung công",
+      "en": "<b>37 requests waiting for manual handling</b> leave, overtime, attendance fixes"
+    },
+    {
+      "id": "thach-thuc-020",
+      "loai": "Chữ",
+      "vi": "Gom công từ các chi nhánh",
+      "en": "Collecting attendance from branches"
+    },
+    {
+      "id": "thach-thuc-021",
+      "loai": "Chữ đậm",
+      "vi": "Cuối tháng",
+      "en": "Month end"
+    },
+    {
+      "id": "thach-thuc-022",
+      "loai": "Chữ",
+      "vi": "Đối chiếu trước khi tính lương",
+      "en": "Cross-checking before payroll"
+    },
+    {
+      "id": "thach-thuc-023",
+      "loai": "Chữ đậm",
+      "vi": "Làm tay",
+      "en": "By hand"
+    },
+    {
+      "id": "thach-thuc-024",
+      "loai": "Chữ",
+      "vi": "Thách thức 03",
+      "en": "Challenge 03"
+    },
+    {
+      "id": "thach-thuc-025",
+      "loai": "Tiêu đề nhỏ",
+      "vi": "Thiếu dữ liệu để quản trị hiệu suất",
+      "en": "Not enough data to manage performance"
+    },
+    {
+      "id": "thach-thuc-026",
+      "loai": "Đoạn chữ",
+      "vi": "Mục tiêu kinh doanh chưa nối chặt với KPI của phòng ban và từng cá nhân. Đánh giá kết quả và năng lực chưa thành một chu trình nhất quán.",
+      "en": "Business goals are not tightly linked to department and individual KPIs. Results and competency reviews do not form a consistent cycle."
+    },
+    {
+      "id": "thach-thuc-027",
+      "loai": "Chữ",
+      "vi": "Hiệu suất",
+      "en": "Performance"
+    },
+    {
+      "id": "thach-thuc-028",
+      "loai": "Chữ đậm",
+      "vi": "Mục tiêu 2026",
+      "en": "2026 goals"
+    },
+    {
+      "id": "thach-thuc-029",
+      "loai": "Chữ",
+      "vi": "<em>Doanh thu công ty</em>120 tỷ",
+      "en": "<em>Company revenue</em>120 bn VND"
+    },
+    {
+      "id": "thach-thuc-030",
+      "loai": "Nhãn",
+      "vi": "KPI phòng Kinh doanh",
+      "en": "Sales department KPIs"
+    },
+    {
+      "id": "thach-thuc-031",
+      "loai": "i",
+      "vi": "Chưa phân bổ",
+      "en": "Not cascaded"
+    },
+    {
+      "id": "thach-thuc-032",
+      "loai": "Nhãn",
+      "vi": "KPI từng nhân viên",
+      "en": "Individual KPIs"
+    },
+    {
+      "id": "thach-thuc-033",
+      "loai": "i",
+      "vi": "Chưa có",
+      "en": "None yet"
+    },
+    {
+      "id": "thach-thuc-034",
+      "loai": "Nhãn",
+      "vi": "Đánh giá năng lực",
+      "en": "Competency review"
+    },
+    {
+      "id": "thach-thuc-035",
+      "loai": "i",
+      "vi": "Làm riêng, cuối năm",
+      "en": "Separate, year-end only"
+    },
+    {
+      "id": "thach-thuc-036",
+      "loai": "Chữ",
+      "vi": "Thách thức 04",
+      "en": "Challenge 04"
+    },
+    {
+      "id": "thach-thuc-037",
+      "loai": "Tiêu đề nhỏ",
+      "vi": "Quản lý giỏi chuyên môn nhưng thiếu công cụ dẫn dắt",
+      "en": "Managers are experts but lack tools to lead"
+    },
+    {
+      "id": "thach-thuc-038",
+      "loai": "Đoạn chữ",
+      "vi": "Quản lý cần nhiều hơn một bảng báo cáo: công cụ giao mục tiêu, theo dõi kết quả, phản hồi, đánh giá và phát triển nhân viên.",
+      "en": "Managers need more than a report: tools to set goals, track results, give feedback, review and develop their people."
+    },
+    {
+      "id": "thach-thuc-039",
+      "loai": "Chữ",
+      "vi": "Quản lý",
+      "en": "Manager"
+    },
+    {
+      "id": "thach-thuc-040",
+      "loai": "Chữ đậm",
+      "vi": "Một tuần của trưởng nhóm",
+      "en": "A team lead's week"
+    },
+    {
+      "id": "thach-thuc-041",
+      "loai": "Nhãn",
+      "vi": "Giao mục tiêu",
+      "en": "Setting goals"
+    },
+    {
+      "id": "thach-thuc-042",
+      "loai": "i",
+      "vi": "Qua tin nhắn",
+      "en": "Via chat messages"
+    },
+    {
+      "id": "thach-thuc-043",
+      "loai": "Nhãn",
+      "vi": "Theo dõi kết quả",
+      "en": "Tracking results"
+    },
+    {
+      "id": "thach-thuc-044",
+      "loai": "i",
+      "vi": "Hỏi từng người",
+      "en": "Asking each person"
+    },
+    {
+      "id": "thach-thuc-045",
+      "loai": "Nhãn",
+      "vi": "Phản hồi, đánh giá",
+      "en": "Feedback and reviews"
+    },
+    {
+      "id": "thach-thuc-046",
+      "loai": "i",
+      "vi": "Đợi cuối năm",
+      "en": "Wait until year-end"
+    },
+    {
+      "id": "thach-thuc-047",
+      "loai": "Nhãn",
+      "vi": "Kế hoạch phát triển",
+      "en": "Development plans"
+    },
+    {
+      "id": "thach-thuc-048",
+      "loai": "i",
+      "vi": "Chưa có",
+      "en": "None yet"
+    },
+    {
+      "id": "thach-thuc-049",
+      "loai": "Chữ",
+      "vi": "Thách thức 05",
+      "en": "Challenge 05"
+    },
+    {
+      "id": "thach-thuc-050",
+      "loai": "Tiêu đề nhỏ",
+      "vi": "Nhân viên thiếu trải nghiệm và cơ hội phát triển",
+      "en": "Employees lack a good experience and growth opportunities"
+    },
+    {
+      "id": "thach-thuc-051",
+      "loai": "Đoạn chữ",
+      "vi": "Nhân viên cần biết mình phải làm gì, kết quả ra sao, được ghi nhận thế nào và phát triển ở đâu. Họ đi làm không chỉ vì lương, mà vì sự ghi nhận, cơ hội học hỏi và cảm giác thuộc về tổ chức.",
+      "en": "Employees need to know what to do, how they are doing, how they are recognized and where they can grow. They work not only for pay, but for recognition, learning and a sense of belonging."
+    },
+    {
+      "id": "thach-thuc-052",
+      "loai": "Chữ",
+      "vi": "Nhân viên",
+      "en": "Employee"
+    },
+    {
+      "id": "thach-thuc-053",
+      "loai": "Chữ đậm",
+      "vi": "Nhân viên tự hỏi",
+      "en": "What employees wonder"
+    },
+    {
+      "id": "thach-thuc-054",
+      "loai": "Chữ",
+      "vi": "Tháng này mình đạt KPI chưa?",
+      "en": "Did I hit my KPI this month?"
+    },
+    {
+      "id": "thach-thuc-055",
+      "loai": "Chữ",
+      "vi": "Mình còn bao nhiêu ngày phép?",
+      "en": "How many leave days do I have left?"
+    },
+    {
+      "id": "thach-thuc-056",
+      "loai": "Chữ",
+      "vi": "Làm tốt thì được ghi nhận ra sao?",
+      "en": "How is good work recognized?"
+    },
+    {
+      "id": "thach-thuc-057",
+      "loai": "Chữ",
+      "vi": "Lộ trình lên vị trí tiếp theo?",
+      "en": "What's my path to the next role?"
+    },
+    {
+      "id": "thach-thuc-058",
+      "loai": "Chữ",
+      "vi": "Thông điệp",
+      "en": "The takeaway"
+    },
+    {
+      "id": "thach-thuc-059",
+      "loai": "Đoạn chữ",
+      "vi": "Doanh nghiệp không thiếu công cụ. Doanh nghiệp cần <b>một hệ thống</b> kết nối công nghệ, chuyên môn HR và quy trình quản trị thực tế.",
+      "en": "Companies do not lack tools. They need <b>one system</b> that connects technology, HR expertise and real-world management processes."
+    },
+    {
+      "id": "thach-thuc-060",
+      "loai": "Link",
+      "vi": "Xem giải pháp XLINK <span aria-hidden=\"true\">→</span>",
+      "en": "See the XLINK solution <span aria-hidden=\"true\">→</span>"
+    }
+  ]
+}

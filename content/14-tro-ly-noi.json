@@ -1,0 +1,191 @@
+{
+  "khoi": "Trợ lý hỏi đáp nổi (góc phải)",
+  "items": [
+    {
+      "id": "tro-ly-noi-002",
+      "loai": "Link",
+      "vi": "Bỏ qua, tới nội dung",
+      "en": "Skip to content"
+    },
+    {
+      "id": "tro-ly-noi-003",
+      "loai": "Chữ đậm",
+      "vi": "Trợ lý XLINK",
+      "en": "XLINK Assistant"
+    },
+    {
+      "id": "tro-ly-noi-004",
+      "loai": "Chữ nhỏ",
+      "vi": "Hỏi nhanh về giải pháp, triển khai, liên hệ",
+      "en": "Quick answers on the solution, rollout and contact"
+    },
+    {
+      "id": "tro-ly-noi-005",
+      "loai": "Đoạn chữ",
+      "vi": "Xin chào! Mình là Trợ lý XLINK. Anh chị muốn tìm hiểu điều gì?",
+      "en": "Hi! I'm the XLINK Assistant. What would you like to know?"
+    },
+    {
+      "id": "tro-ly-noi-006",
+      "loai": "Nút",
+      "vi": "XLink có những phân hệ nào?",
+      "en": "What modules does XLink have?"
+    },
+    {
+      "id": "tro-ly-noi-007",
+      "loai": "Nút",
+      "vi": "Chi phí và gói dịch vụ?",
+      "en": "Pricing and plans?"
+    },
+    {
+      "id": "tro-ly-noi-008",
+      "loai": "Nút",
+      "vi": "Triển khai ra sao?",
+      "en": "How does implementation work?"
+    },
+    {
+      "id": "tro-ly-noi-009",
+      "loai": "Nút",
+      "vi": "Trợ lý AI làm được gì?",
+      "en": "What can the AI Assistant do?"
+    },
+    {
+      "id": "tro-ly-noi-010",
+      "loai": "Nút",
+      "vi": "Đăng ký trải nghiệm",
+      "en": "Request a trial"
+    },
+    {
+      "id": "tro-ly-noi-011",
+      "loai": "Nhãn ô nhập",
+      "vi": "Câu hỏi của bạn",
+      "en": "Your question"
+    },
+    {
+      "id": "tro-ly-noi-012",
+      "loai": "Đoạn chữ",
+      "vi": "Trả lời tự động theo nội dung trang này.",
+      "en": "Automatic answers based on this page."
+    },
+    {
+      "id": "tro-ly-noi-013",
+      "loai": "Chữ",
+      "vi": "Hỏi Trợ lý XLINK",
+      "en": "Ask the XLINK Assistant"
+    },
+    {
+      "id": "tro-ly-noi-014",
+      "loai": "Đoạn chữ",
+      "vi": "XLINK có 12 nhóm chức năng trong 3 trụ cột:",
+      "en": "XLINK has 12 feature groups across 3 pillars:"
+    },
+    {
+      "id": "tro-ly-noi-015",
+      "loai": "Ý / dòng",
+      "vi": "<b>HR Operations:</b> tổ chức và hồ sơ, chấm công, tiền lương, tuyển dụng, onboarding và offboarding",
+      "en": "<b>HR Operations:</b> organization and profiles, attendance, payroll, recruiting, onboarding and offboarding"
+    },
+    {
+      "id": "tro-ly-noi-016",
+      "loai": "Ý / dòng",
+      "vi": "<b>Talent Management:</b> KPI/OKR, quản trị năng lực, đào tạo LMS",
+      "en": "<b>Talent Management:</b> KPI/OKR, competency management, LMS training"
+    },
+    {
+      "id": "tro-ly-noi-017",
+      "loai": "Ý / dòng",
+      "vi": "<b>AI &amp; People Analytics:</b> báo cáo, AI Assistant, AI hiệu suất và năng lực, AI People Analytics",
+      "en": "<b>AI &amp; People Analytics:</b> reports, AI Assistant, AI performance and competency, AI People Analytics"
+    },
+    {
+      "id": "tro-ly-noi-018",
+      "loai": "Link",
+      "vi": "Xem 12 nhóm chức năng →",
+      "en": "See all 12 feature groups →"
+    },
+    {
+      "id": "tro-ly-noi-019",
+      "loai": "Đoạn chữ",
+      "vi": "Các chức năng được cung cấp theo phạm vi sản phẩm, phiên bản và gói dịch vụ. Doanh nghiệp chọn phạm vi phù hợp với quy mô và lộ trình; đội ngũ TOPLINKS sẽ tư vấn cụ thể.",
+      "en": "Features are provided by product scope, edition and service plan. You choose the scope that fits your size and roadmap; the TOPLINKS team will advise you in detail."
+    },
+    {
+      "id": "tro-ly-noi-020",
+      "loai": "Nút",
+      "vi": "Đăng ký tư vấn",
+      "en": "Request advice"
+    },
+    {
+      "id": "tro-ly-noi-021",
+      "loai": "Đoạn chữ",
+      "vi": "XLINK cùng TOPLINKS triển khai theo 4 bước:",
+      "en": "XLINK and TOPLINKS roll out in 4 steps:"
+    },
+    {
+      "id": "tro-ly-noi-022",
+      "loai": "Ý / dòng",
+      "vi": "<b>Khảo sát &amp; tư vấn:</b> hiện trạng, mô hình tổ chức, nhu cầu",
+      "en": "<b>Assessment &amp; consulting:</b> current state, organization model, needs"
+    },
+    {
+      "id": "tro-ly-noi-023",
+      "loai": "Ý / dòng",
+      "vi": "<b>Chuẩn hóa &amp; cấu hình:</b> dữ liệu, danh mục, phân quyền, quy trình",
+      "en": "<b>Standardization &amp; configuration:</b> data, master lists, permissions, processes"
+    },
+    {
+      "id": "tro-ly-noi-024",
+      "loai": "Ý / dòng",
+      "vi": "<b>Kiểm thử &amp; đào tạo:</b> chạy thử nghiệp vụ, hướng dẫn người dùng",
+      "en": "<b>Testing &amp; training:</b> trial runs on real processes, user training"
+    },
+    {
+      "id": "tro-ly-noi-025",
+      "loai": "Ý / dòng",
+      "vi": "<b>Go-live &amp; đồng hành:</b> vận hành và tối ưu theo thực tế",
+      "en": "<b>Go-live &amp; ongoing support:</b> operate and optimize for real needs"
+    },
+    {
+      "id": "tro-ly-noi-026",
+      "loai": "Link",
+      "vi": "Xem lộ trình triển khai →",
+      "en": "See the rollout roadmap →"
+    },
+    {
+      "id": "tro-ly-noi-027",
+      "loai": "Đoạn chữ",
+      "vi": "Trợ lý AI hỗ trợ hỏi đáp chính sách, tìm tài liệu, tạo nội dung tuyển dụng, gợi ý KPI và nội dung đánh giá, và hỏi dữ liệu bằng ngôn ngữ tự nhiên, trong đúng phạm vi quyền của người hỏi.",
+      "en": "The AI Assistant answers policy questions, searches documents, drafts recruiting content, suggests KPIs and review content, and lets you ask your data in natural language, within the asker's access rights."
+    },
+    {
+      "id": "tro-ly-noi-028",
+      "loai": "Link",
+      "vi": "Thử Trợ lý AI trên trang →",
+      "en": "Try the AI Assistant on this page →"
+    },
+    {
+      "id": "tro-ly-noi-029",
+      "loai": "Đoạn chữ",
+      "vi": "Mình mở form đăng ký trải nghiệm cho anh chị. Đội ngũ TOPLINKS sẽ liên hệ tư vấn. Hoặc gọi hotline <a href=\"tel:+84348259886\">0348.259.886</a>.",
+      "en": "I'm opening the trial request form for you. The TOPLINKS team will contact you. Or call our hotline <a href=\"tel:+84348259886\">0348.259.886</a>."
+    },
+    {
+      "id": "tro-ly-noi-030",
+      "loai": "Nút",
+      "vi": "Mở lại form",
+      "en": "Reopen form"
+    },
+    {
+      "id": "tro-ly-noi-031",
+      "loai": "Đoạn chữ",
+      "vi": "Câu này cần chuyên viên TOPLINKS trả lời chính xác. Anh chị để lại thông tin hoặc gọi hotline <a href=\"tel:+84348259886\">0348.259.886</a>.",
+      "en": "This question needs a TOPLINKS specialist for an accurate answer. Leave your details or call our hotline <a href=\"tel:+84348259886\">0348.259.886</a>."
+    },
+    {
+      "id": "tro-ly-noi-032",
+      "loai": "Nút",
+      "vi": "Để lại thông tin",
+      "en": "Leave your details"
+    }
+  ]
+}

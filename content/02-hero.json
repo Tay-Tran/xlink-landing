@@ -1,0 +1,59 @@
+{
+  "khoi": "01 · Hero – tiêu đề và nút",
+  "items": [
+    {
+      "id": "hero-001",
+      "loai": "Đoạn chữ",
+      "vi": "XLINK · Ra mắt tại TECH × HR 2027, ngày 26/11/2026",
+      "en": "XLINK · Launching at TECH × HR 2027, 26 Nov 2026"
+    },
+    {
+      "id": "hero-002",
+      "loai": "Tiêu đề chính",
+      "vi": "Next-Level HR Management",
+      "en": "Next-Level HR Management"
+    },
+    {
+      "id": "hero-003",
+      "loai": "Đoạn chữ",
+      "vi": "Kết nối công nghệ – Tối ưu nhân tài – Nâng tầm năng suất",
+      "en": "Connecting technology – Optimizing talent – Elevating productivity"
+    },
+    {
+      "id": "hero-004",
+      "loai": "Đoạn chữ",
+      "vi": "Nền tảng quản trị và phát triển nguồn lực thế hệ mới, kết nối HRM – Hiệu suất – Năng lực – Đào tạo – AI trên một hệ thống duy nhất.",
+      "en": "The next-generation platform to manage and develop your people, connecting HRM – Performance – Competency – Training – AI in one single system."
+    },
+    {
+      "id": "hero-005",
+      "loai": "Nút",
+      "vi": "Đăng ký trải nghiệm XLINK",
+      "en": "Request an XLINK trial"
+    },
+    {
+      "id": "hero-006",
+      "loai": "Link",
+      "vi": "Khám phá giải pháp",
+      "en": "Explore the solution"
+    },
+    {
+      "id": "hero-007",
+      "loai": "Ý / dòng",
+      "vi": "HR Operations",
+      "en": "HR Operations"
+    },
+    {
+      "id": "hero-008",
+      "loai": "Ý / dòng",
+      "vi": "Talent Management",
+      "en": "Talent Management"
+    },
+    {
+      "id": "hero-009",
+      "loai": "Ý / dòng",
+      "vi": "AI-powered HR",
+      "en": "AI-powered HR"
+    }
+  ]
+}

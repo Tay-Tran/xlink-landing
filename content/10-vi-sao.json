@@ -1,0 +1,101 @@
+{
+  "khoi": "07 · Vì sao XLINK",
+  "items": [
+    {
+      "id": "vi-sao-001",
+      "loai": "Đoạn chữ",
+      "vi": "Tại sao chọn XLINK?",
+      "en": "Why choose XLINK?"
+    },
+    {
+      "id": "vi-sao-002",
+      "loai": "Tiêu đề khối",
+      "vi": "Không chỉ là công nghệ",
+      "en": "More than technology"
+    },
+    {
+      "id": "vi-sao-003",
+      "loai": "Đoạn chữ",
+      "vi": "Đó là sự kết hợp giữa chuyên môn HR, công nghệ AI và năng lực triển khai.",
+      "en": "It is the combination of HR expertise, AI technology and implementation capability."
+    },
+    {
+      "id": "vi-sao-004",
+      "loai": "Chữ đậm",
+      "vi": "Chuyên môn tư vấn",
+      "en": "Consulting expertise"
+    },
+    {
+      "id": "vi-sao-005",
+      "loai": "Chữ đậm",
+      "vi": "Nền tảng công nghệ",
+      "en": "Technology platform"
+    },
+    {
+      "id": "vi-sao-006",
+      "loai": "Chữ đậm",
+      "vi": "Triển khai thực tế",
+      "en": "Real-world execution"
+    },
+    {
+      "id": "vi-sao-007",
+      "loai": "Tiêu đề nhỏ",
+      "vi": "HR Expertise<small>Chuyên môn quản trị nhân sự</small>",
+      "en": "HR Expertise<small>Deep HR management know-how</small>"
+    },
+    {
+      "id": "vi-sao-008",
+      "loai": "Đoạn chữ",
+      "vi": "Định hướng bởi chuyên môn HR và kinh nghiệm thực tiễn, giúp chuẩn hóa nghiệp vụ thay vì chỉ số hóa quy trình chưa hiệu quả.",
+      "en": "Guided by HR expertise and hands-on experience, helping companies standardize processes instead of just digitizing inefficient ones."
+    },
+    {
+      "id": "vi-sao-009",
+      "loai": "Tiêu đề nhỏ",
+      "vi": "Integrated Platform<small>Nền tảng tích hợp</small>",
+      "en": "Integrated Platform<small>One integrated system</small>"
+    },
+    {
+      "id": "vi-sao-010",
+      "loai": "Đoạn chữ",
+      "vi": "HRM, hiệu suất, năng lực, đào tạo và báo cáo trên cùng một hệ thống.",
+      "en": "HRM, performance, competency, training and reporting in one system."
+    },
+    {
+      "id": "vi-sao-011",
+      "loai": "Tiêu đề nhỏ",
+      "vi": "AI-Powered<small>Ứng dụng AI thực tiễn</small>",
+      "en": "AI-Powered<small>Practical AI</small>"
+    },
+    {
+      "id": "vi-sao-012",
+      "loai": "Đoạn chữ",
+      "vi": "AI gắn vào từng nghiệp vụ cụ thể, giảm việc lặp lại và khai thác dữ liệu hiệu quả hơn.",
+      "en": "AI built into specific tasks, cutting repetitive work and making data more useful."
+    },
+    {
+      "id": "vi-sao-013",
+      "loai": "Tiêu đề nhỏ",
+      "vi": "Flexible & Scalable<small>Linh hoạt và mở rộng</small>",
+      "en": "Flexible &amp; Scalable<small>Grows with you</small>"
+    },
+    {
+      "id": "vi-sao-014",
+      "loai": "Đoạn chữ",
+      "vi": "Chọn phạm vi giải pháp theo quy mô, nhu cầu và lộ trình phát triển của doanh nghiệp.",
+      "en": "Choose the solution scope that fits your size, needs and growth roadmap."
+    },
+    {
+      "id": "vi-sao-015",
+      "loai": "Tiêu đề nhỏ",
+      "vi": "Implementation Partner<small>Đồng hành triển khai</small>",
+      "en": "Implementation Partner<small>Hands-on rollout</small>"
+    },
+    {
+      "id": "vi-sao-016",
+      "loai": "Đoạn chữ",
+      "vi": "TOPLINKS đồng hành từ khảo sát, chuẩn hóa dữ liệu, cấu hình, đào tạo đến hỗ trợ vận hành.",
+      "en": "TOPLINKS supports you from assessment, data standardization, configuration and training to ongoing operations."
+    }
+  ]
+}

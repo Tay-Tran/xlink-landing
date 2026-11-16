@@ -1,0 +1,797 @@
+{
+  "khoi": "01 · Hero – giao diện app minh hoạ",
+  "items": [
+    {
+      "id": "hero-app-001",
+      "loai": "Chữ",
+      "vi": "Tổng quan",
+      "en": "Overview"
+    },
+    {
+      "id": "hero-app-002",
+      "loai": "Chữ",
+      "vi": "Chấm công",
+      "en": "Time & attendance"
+    },
+    {
+      "id": "hero-app-003",
+      "loai": "Chữ",
+      "vi": "Tiền lương",
+      "en": "Payroll"
+    },
+    {
+      "id": "hero-app-004",
+      "loai": "Chữ",
+      "vi": "Tuyển dụng",
+      "en": "Recruitment"
+    },
+    {
+      "id": "hero-app-005",
+      "loai": "Chữ",
+      "vi": "Nhân tài",
+      "en": "Talent"
+    },
+    {
+      "id": "hero-app-006",
+      "loai": "Chữ",
+      "vi": "Trợ lý AI",
+      "en": "AI Assistant"
+    },
+    {
+      "id": "hero-app-007",
+      "loai": "Chữ",
+      "vi": "Mới",
+      "en": "New"
+    },
+    {
+      "id": "hero-app-008",
+      "loai": "Ý / dòng",
+      "vi": "Tổng quan",
+      "en": "Overview"
+    },
+    {
+      "id": "hero-app-009",
+      "loai": "Ý / dòng",
+      "vi": "Nhân sự",
+      "en": "People"
+    },
+    {
+      "id": "hero-app-010",
+      "loai": "Ý / dòng",
+      "vi": "Chấm công",
+      "en": "Time & attendance"
+    },
+    {
+      "id": "hero-app-011",
+      "loai": "Ý / dòng",
+      "vi": "Tiền lương",
+      "en": "Payroll"
+    },
+    {
+      "id": "hero-app-012",
+      "loai": "Ý / dòng",
+      "vi": "Tuyển dụng",
+      "en": "Recruitment"
+    },
+    {
+      "id": "hero-app-013",
+      "loai": "Ý / dòng",
+      "vi": "KPI & Nhân tài",
+      "en": "KPI & talent"
+    },
+    {
+      "id": "hero-app-014",
+      "loai": "Ý / dòng",
+      "vi": "Báo cáo",
+      "en": "Reports"
+    },
+    {
+      "id": "hero-app-015",
+      "loai": "Ý / dòng",
+      "vi": "Trợ lý AI",
+      "en": "AI Assistant"
+    },
+    {
+      "id": "hero-app-016",
+      "loai": "Chữ",
+      "vi": "M",
+      "en": "M"
+    },
+    {
+      "id": "hero-app-017",
+      "loai": "Chữ",
+      "vi": "Mai Lê<small>Trưởng phòng nhân sự</small>",
+      "en": "Mai Lê<small>HR manager</small>"
+    },
+    {
+      "id": "hero-app-018",
+      "loai": "Chữ",
+      "vi": "Tôi muốn… (việc cần làm, nhân viên)",
+      "en": "I want to… (tasks, employees)"
+    },
+    {
+      "id": "hero-app-019",
+      "loai": "Đoạn chữ",
+      "vi": "Thứ Sáu, 13/11/2026",
+      "en": "Friday, 13/11/2026"
+    },
+    {
+      "id": "hero-app-020",
+      "loai": "Tiêu đề khối",
+      "vi": "Chào buổi sáng, chị Mai",
+      "en": "Good morning, Mai"
+    },
+    {
+      "id": "hero-app-021",
+      "loai": "Tiêu đề nhỏ",
+      "vi": "Việc cần xử lý",
+      "en": "To do"
+    },
+    {
+      "id": "hero-app-022",
+      "loai": "Chữ",
+      "vi": "P",
+      "en": "P"
+    },
+    {
+      "id": "hero-app-023",
+      "loai": "Chữ",
+      "vi": "<b>Quàng Mộng Hoài Phú</b> xin bổ sung công ngày 01/11",
+      "en": "<b>Quàng Mộng Hoài Phú</b> requests a timesheet correction for 01/11"
+    },
+    {
+      "id": "hero-app-024",
+      "loai": "Nhãn",
+      "vi": "Chờ duyệt",
+      "en": "Pending"
+    },
+    {
+      "id": "hero-app-025",
+      "loai": "Chữ",
+      "vi": "E",
+      "en": "E"
+    },
+    {
+      "id": "hero-app-026",
+      "loai": "Chữ",
+      "vi": "<b>Võ Thị Em</b> xin nghỉ phép năm 20–21/11",
+      "en": "<b>Võ Thị Em</b> requests annual leave 20–21/11"
+    },
+    {
+      "id": "hero-app-027",
+      "loai": "Nhãn",
+      "vi": "Chờ duyệt",
+      "en": "Pending"
+    },
+    {
+      "id": "hero-app-028",
+      "loai": "Chữ",
+      "vi": "D",
+      "en": "D"
+    },
+    {
+      "id": "hero-app-029",
+      "loai": "Chữ",
+      "vi": "<b>Hoàng Văn Dũng</b> đăng ký tăng ca 3 giờ",
+      "en": "<b>Hoàng Văn Dũng</b> requests 3 hours of overtime"
+    },
+    {
+      "id": "hero-app-030",
+      "loai": "Nhãn",
+      "vi": "Chờ duyệt",
+      "en": "Pending"
+    },
+    {
+      "id": "hero-app-031",
+      "loai": "Chữ",
+      "vi": "H",
+      "en": "H"
+    },
+    {
+      "id": "hero-app-032",
+      "loai": "Chữ",
+      "vi": "<b>Lê Hải Minh Hồng</b> hợp đồng hết hạn sau 8 ngày",
+      "en": "<b>Lê Hải Minh Hồng</b>'s contract expires in 8 days"
+    },
+    {
+      "id": "hero-app-033",
+      "loai": "Nhãn",
+      "vi": "Tái ký",
+      "en": "Renew"
+    },
+    {
+      "id": "hero-app-034",
+      "loai": "Tiêu đề nhỏ",
+      "vi": "Nhân sự đang làm việc",
+      "en": "Active employees"
+    },
+    {
+      "id": "hero-app-035",
+      "loai": "Đoạn chữ",
+      "vi": "Nghỉ việc 12 tháng: <b>2,4%</b>",
+      "en": "12-month turnover: <b>2.4%</b>"
+    },
+    {
+      "id": "hero-app-036",
+      "loai": "Tiêu đề nhỏ",
+      "vi": "Phỏng vấn hôm nay",
+      "en": "Interviews today"
+    },
+    {
+      "id": "hero-app-037",
+      "loai": "Chữ đậm",
+      "vi": "Trần Minh Khoa",
+      "en": "Trần Minh Khoa"
+    },
+    {
+      "id": "hero-app-038",
+      "loai": "Chữ nhỏ",
+      "vi": "NV kinh doanh",
+      "en": "Sales rep"
+    },
+    {
+      "id": "hero-app-039",
+      "loai": "Chữ đậm",
+      "vi": "Phạm Thu Hà",
+      "en": "Phạm Thu Hà"
+    },
+    {
+      "id": "hero-app-040",
+      "loai": "Chữ nhỏ",
+      "vi": "Kế toán tổng hợp",
+      "en": "General accountant"
+    },
+    {
+      "id": "hero-app-041",
+      "loai": "Chữ đậm",
+      "vi": "Đỗ Quang Huy",
+      "en": "Đỗ Quang Huy"
+    },
+    {
+      "id": "hero-app-042",
+      "loai": "Chữ nhỏ",
+      "vi": "Kỹ thuật viên",
+      "en": "Technician"
+    },
+    {
+      "id": "hero-app-043",
+      "loai": "Tiêu đề nhỏ",
+      "vi": "Chi phí lương kỳ gần nhất",
+      "en": "Latest payroll cost"
+    },
+    {
+      "id": "hero-app-044",
+      "loai": "Đoạn chữ",
+      "vi": "1.515,4 <small>triệu</small>",
+      "en": "1,515.4 <small>M</small>"
+    },
+    {
+      "id": "hero-app-045",
+      "loai": "Đoạn chữ",
+      "vi": "Kỳ 07/2026, đã khoá",
+      "en": "Period 07/2026, locked"
+    },
+    {
+      "id": "hero-app-046",
+      "loai": "Tiêu đề nhỏ",
+      "vi": "Sinh nhật tuần này",
+      "en": "Birthdays this week"
+    },
+    {
+      "id": "hero-app-047",
+      "loai": "Chữ",
+      "vi": "H",
+      "en": "H"
+    },
+    {
+      "id": "hero-app-048",
+      "loai": "Chữ đậm",
+      "vi": "Trương Năng Huấn",
+      "en": "Trương Năng Huấn"
+    },
+    {
+      "id": "hero-app-049",
+      "loai": "Chữ",
+      "vi": "L",
+      "en": "L"
+    },
+    {
+      "id": "hero-app-050",
+      "loai": "Chữ đậm",
+      "vi": "Âu Ái Thu Lệ",
+      "en": "Âu Ái Thu Lệ"
+    },
+    {
+      "id": "hero-app-051",
+      "loai": "Đoạn chữ",
+      "vi": "Chấm công › Hôm nay",
+      "en": "Time & attendance › Today"
+    },
+    {
+      "id": "hero-app-052",
+      "loai": "Tiêu đề khối",
+      "vi": "Tình hình đi làm hôm nay",
+      "en": "Attendance today"
+    },
+    {
+      "id": "hero-app-053",
+      "loai": "Chữ",
+      "vi": "Đã chấm công",
+      "en": "Clocked in"
+    },
+    {
+      "id": "hero-app-054",
+      "loai": "Chữ nhỏ",
+      "vi": "trên 430 người có lịch",
+      "en": "of 430 scheduled"
+    },
+    {
+      "id": "hero-app-055",
+      "loai": "Chữ",
+      "vi": "Đi trễ",
+      "en": "Late"
+    },
+    {
+      "id": "hero-app-056",
+      "loai": "Chữ nhỏ",
+      "vi": "tổng 64 phút",
+      "en": "64 min total"
+    },
+    {
+      "id": "hero-app-057",
+      "loai": "Chữ",
+      "vi": "Chưa chấm",
+      "en": "Not clocked in"
+    },
+    {
+      "id": "hero-app-058",
+      "loai": "Chữ nhỏ",
+      "vi": "bấm để nhắc",
+      "en": "click to remind"
+    },
+    {
+      "id": "hero-app-059",
+      "loai": "Chữ",
+      "vi": "Nghỉ có đơn",
+      "en": "On approved leave"
+    },
+    {
+      "id": "hero-app-060",
+      "loai": "Chữ nhỏ",
+      "vi": "đã duyệt",
+      "en": "approved"
+    },
+    {
+      "id": "hero-app-061",
+      "loai": "Tiêu đề nhỏ",
+      "vi": "Chấm công nghi vấn",
+      "en": "Flagged clock-ins"
+    },
+    {
+      "id": "hero-app-062",
+      "loai": "Chữ",
+      "vi": "T",
+      "en": "T"
+    },
+    {
+      "id": "hero-app-063",
+      "loai": "Chữ",
+      "vi": "<b>Trần Văn Tâm</b> chấm ngoài vùng, cách điểm chấm 320 m",
+      "en": "<b>Trần Văn Tâm</b> clocked in outside the zone, 320 m from the site"
+    },
+    {
+      "id": "hero-app-064",
+      "loai": "Nhãn",
+      "vi": "Kiểm tra",
+      "en": "Review"
+    },
+    {
+      "id": "hero-app-065",
+      "loai": "Chữ",
+      "vi": "N",
+      "en": "N"
+    },
+    {
+      "id": "hero-app-066",
+      "loai": "Chữ",
+      "vi": "<b>Nguyễn Thị Ngọc</b> chấm trên điện thoại mới",
+      "en": "<b>Nguyễn Thị Ngọc</b> clocked in on a new phone"
+    },
+    {
+      "id": "hero-app-067",
+      "loai": "Nhãn",
+      "vi": "Duyệt máy",
+      "en": "Approve device"
+    },
+    {
+      "id": "hero-app-068",
+      "loai": "Tiêu đề nhỏ",
+      "vi": "Tỷ lệ có mặt theo đơn vị",
+      "en": "Attendance rate by unit"
+    },
+    {
+      "id": "hero-app-069",
+      "loai": "Chữ",
+      "vi": "Sản xuất",
+      "en": "Production"
+    },
+    {
+      "id": "hero-app-070",
+      "loai": "Chữ",
+      "vi": "Kho",
+      "en": "Warehouse"
+    },
+    {
+      "id": "hero-app-071",
+      "loai": "Chữ",
+      "vi": "Kinh doanh",
+      "en": "Sales"
+    },
+    {
+      "id": "hero-app-072",
+      "loai": "Chữ",
+      "vi": "Văn phòng",
+      "en": "Office"
+    },
+    {
+      "id": "hero-app-073",
+      "loai": "Đoạn chữ",
+      "vi": "Tiền lương › Bảng lương",
+      "en": "Payroll › Payroll sheet"
+    },
+    {
+      "id": "hero-app-074",
+      "loai": "Tiêu đề khối",
+      "vi": "Đợt lương tháng 10/2026",
+      "en": "October 2026 payroll run"
+    },
+    {
+      "id": "hero-app-075",
+      "loai": "Ý / dòng",
+      "vi": "Chốt công",
+      "en": "Close timesheet"
+    },
+    {
+      "id": "hero-app-076",
+      "loai": "Ý / dòng",
+      "vi": "Tính lương",
+      "en": "Calculate"
+    },
+    {
+      "id": "hero-app-077",
+      "loai": "Ý / dòng",
+      "vi": "Trình duyệt",
+      "en": "Submit"
+    },
+    {
+      "id": "hero-app-078",
+      "loai": "Ý / dòng",
+      "vi": "Khoá",
+      "en": "Lock"
+    },
+    {
+      "id": "hero-app-079",
+      "loai": "Ý / dòng",
+      "vi": "Công bố phiếu",
+      "en": "Publish payslips"
+    },
+    {
+      "id": "hero-app-080",
+      "loai": "Tiêu đề nhỏ",
+      "vi": "Tổng thực lĩnh",
+      "en": "Total net pay"
+    },
+    {
+      "id": "hero-app-081",
+      "loai": "Đoạn chữ",
+      "vi": "1.521,8 <small>triệu</small>",
+      "en": "1,521.8 <small>M</small>"
+    },
+    {
+      "id": "hero-app-082",
+      "loai": "Đoạn chữ",
+      "vi": "430 nhân viên",
+      "en": "430 employees"
+    },
+    {
+      "id": "hero-app-083",
+      "loai": "Tiêu đề nhỏ",
+      "vi": "Bảo hiểm & thuế TNCN",
+      "en": "Insurance & PIT"
+    },
+    {
+      "id": "hero-app-084",
+      "loai": "Đoạn chữ",
+      "vi": "312,6 <small>triệu</small>",
+      "en": "312.6 <small>M</small>"
+    },
+    {
+      "id": "hero-app-085",
+      "loai": "Đoạn chữ",
+      "vi": "Theo tham số luật 2026",
+      "en": "Based on 2026 legal parameters"
+    },
+    {
+      "id": "hero-app-086",
+      "loai": "Tiêu đề nhỏ",
+      "vi": "Cần xử lý trước khi duyệt",
+      "en": "Resolve before approval"
+    },
+    {
+      "id": "hero-app-087",
+      "loai": "Chữ",
+      "vi": "nhân viên thiếu số tài khoản",
+      "en": "employees missing a bank account"
+    },
+    {
+      "id": "hero-app-088",
+      "loai": "Chữ",
+      "vi": "khoản tạm ứng trừ kỳ này",
+      "en": "salary advances deducted this period"
+    },
+    {
+      "id": "hero-app-089",
+      "loai": "Đoạn chữ",
+      "vi": "Tuyển dụng › Nhân viên bán hàng, CH Thủ Đức",
+      "en": "Recruitment › Sales associate, Thủ Đức store"
+    },
+    {
+      "id": "hero-app-090",
+      "loai": "Tiêu đề khối",
+      "vi": "Quy trình tuyển dụng",
+      "en": "Hiring pipeline"
+    },
+    {
+      "id": "hero-app-091",
+      "loai": "Tiêu đề nhỏ",
+      "vi": "Ứng tuyển <b>24</b>",
+      "en": "Applied <b>24</b>"
+    },
+    {
+      "id": "hero-app-092",
+      "loai": "Đoạn chữ",
+      "vi": "Lý Gia Bảo",
+      "en": "Lý Gia Bảo"
+    },
+    {
+      "id": "hero-app-093",
+      "loai": "Đoạn chữ",
+      "vi": "Ngô Thảo Vy",
+      "en": "Ngô Thảo Vy"
+    },
+    {
+      "id": "hero-app-094",
+      "loai": "Tiêu đề nhỏ",
+      "vi": "Sàng lọc <b>11</b>",
+      "en": "Screening <b>11</b>"
+    },
+    {
+      "id": "hero-app-095",
+      "loai": "Đoạn chữ",
+      "vi": "Đặng Minh Trí",
+      "en": "Đặng Minh Trí"
+    },
+    {
+      "id": "hero-app-096",
+      "loai": "Đoạn chữ",
+      "vi": "Hồ Bảo Ngân",
+      "en": "Hồ Bảo Ngân"
+    },
+    {
+      "id": "hero-app-097",
+      "loai": "Tiêu đề nhỏ",
+      "vi": "Phỏng vấn <b>6</b>",
+      "en": "Interview <b>6</b>"
+    },
+    {
+      "id": "hero-app-098",
+      "loai": "Đoạn chữ",
+      "vi": "Trần Minh Khoa<small>Hôm nay 09:30</small>",
+      "en": "Trần Minh Khoa<small>Today 09:30</small>"
+    },
+    {
+      "id": "hero-app-099",
+      "loai": "Tiêu đề nhỏ",
+      "vi": "Offer <b>2</b>",
+      "en": "Offer <b>2</b>"
+    },
+    {
+      "id": "hero-app-100",
+      "loai": "Đoạn chữ",
+      "vi": "Vũ Hải Yến<small>Đã gửi thư mời</small>",
+      "en": "Vũ Hải Yến<small>Offer sent</small>"
+    },
+    {
+      "id": "hero-app-101",
+      "loai": "Tiêu đề nhỏ",
+      "vi": "Nhận việc <b>1</b>",
+      "en": "Hired <b>1</b>"
+    },
+    {
+      "id": "hero-app-102",
+      "loai": "Đoạn chữ",
+      "vi": "Phan Đức Long<small>Bắt đầu 01/12</small>",
+      "en": "Phan Đức Long<small>Starts 01/12</small>"
+    },
+    {
+      "id": "hero-app-103",
+      "loai": "Đoạn chữ",
+      "vi": "KPI & Nhân tài › Kỳ đánh giá Quý 4/2026",
+      "en": "KPI & talent › Q4/2026 review cycle"
+    },
+    {
+      "id": "hero-app-104",
+      "loai": "Tiêu đề khối",
+      "vi": "Ma trận nhân tài và kế nhiệm",
+      "en": "Talent matrix and succession"
+    },
+    {
+      "id": "hero-app-105",
+      "loai": "Tiêu đề nhỏ",
+      "vi": "Ma trận 9-Box",
+      "en": "9-Box matrix"
+    },
+    {
+      "id": "hero-app-106",
+      "loai": "Đoạn chữ",
+      "vi": "Hiệu suất (ngang) và năng lực (dọc), 106 người đã chấm",
+      "en": "Performance (x-axis) and competency (y-axis), 106 people rated"
+    },
+    {
+      "id": "hero-app-107",
+      "loai": "Tiêu đề nhỏ",
+      "vi": "Kế nhiệm: Trưởng phòng Sản phẩm",
+      "en": "Succession: Head of Product"
+    },
+    {
+      "id": "hero-app-108",
+      "loai": "Nhãn",
+      "vi": "Rủi ro cao",
+      "en": "High risk"
+    },
+    {
+      "id": "hero-app-109",
+      "loai": "Chữ",
+      "vi": "M",
+      "en": "M"
+    },
+    {
+      "id": "hero-app-110",
+      "loai": "Chữ đậm",
+      "vi": "Minh Đỗ",
+      "en": "Minh Đỗ"
+    },
+    {
+      "id": "hero-app-111",
+      "loai": "Chữ nhỏ",
+      "vi": "Product Owner, năng lực 88%",
+      "en": "Product Owner, competency 88%"
+    },
+    {
+      "id": "hero-app-112",
+      "loai": "Nhãn",
+      "vi": "Sẵn sàng ngay",
+      "en": "Ready now"
+    },
+    {
+      "id": "hero-app-113",
+      "loai": "Chữ",
+      "vi": "H",
+      "en": "H"
+    },
+    {
+      "id": "hero-app-114",
+      "loai": "Chữ đậm",
+      "vi": "Hùng Trần",
+      "en": "Hùng Trần"
+    },
+    {
+      "id": "hero-app-115",
+      "loai": "Chữ nhỏ",
+      "vi": "Product Owner, năng lực 86%",
+      "en": "Product Owner, competency 86%"
+    },
+    {
+      "id": "hero-app-116",
+      "loai": "Nhãn",
+      "vi": "1–2 năm",
+      "en": "1–2 years"
+    },
+    {
+      "id": "hero-app-117",
+      "loai": "Đoạn chữ",
+      "vi": "Đã có kế hoạch phát triển (IDP) cho 1/2 ứng viên",
+      "en": "Development plan (IDP) in place for 1 of 2 candidates"
+    },
+    {
+      "id": "hero-app-118",
+      "loai": "Đoạn chữ",
+      "vi": "Trợ lý XLink",
+      "en": "XLink Assistant"
+    },
+    {
+      "id": "hero-app-119",
+      "loai": "Tiêu đề khối",
+      "vi": "Hỏi bằng tiếng Việt",
+      "en": "Ask in Vietnamese"
+    },
+    {
+      "id": "hero-app-120",
+      "loai": "Đoạn chữ",
+      "vi": "Ai ở Kho chưa chấm công hôm nay?",
+      "en": "Who hasn't clocked in today?"
+    },
+    {
+      "id": "hero-app-121",
+      "loai": "Đoạn chữ",
+      "vi": "Kho có 3 người có lịch ca sáng nhưng chưa chấm công:",
+      "en": "3 people in the Warehouse are scheduled for the morning shift but haven't clocked in:"
+    },
+    {
+      "id": "hero-app-122",
+      "loai": "Chữ",
+      "vi": "B",
+      "en": "B"
+    },
+    {
+      "id": "hero-app-123",
+      "loai": "Chữ đậm",
+      "vi": "Lê Văn Bình",
+      "en": "Lê Văn Bình"
+    },
+    {
+      "id": "hero-app-124",
+      "loai": "Chữ nhỏ",
+      "vi": "Ca 1 sản xuất, 06:00",
+      "en": "Production shift 1, 06:00"
+    },
+    {
+      "id": "hero-app-125",
+      "loai": "Chữ",
+      "vi": "T",
+      "en": "T"
+    },
+    {
+      "id": "hero-app-126",
+      "loai": "Chữ đậm",
+      "vi": "Mai Thanh Tú",
+      "en": "Mai Thanh Tú"
+    },
+    {
+      "id": "hero-app-127",
+      "loai": "Chữ nhỏ",
+      "vi": "Ca 1 sản xuất, 06:00",
+      "en": "Production shift 1, 06:00"
+    },
+    {
+      "id": "hero-app-128",
+      "loai": "Chữ",
+      "vi": "K",
+      "en": "K"
+    },
+    {
+      "id": "hero-app-129",
+      "loai": "Chữ đậm",
+      "vi": "Phạm Quốc Khánh",
+      "en": "Phạm Quốc Khánh"
+    },
+    {
+      "id": "hero-app-130",
+      "loai": "Chữ nhỏ",
+      "vi": "Ca hành chính, 08:00",
+      "en": "Office shift, 08:00"
+    },
+    {
+      "id": "hero-app-131",
+      "loai": "Chữ",
+      "vi": "Gửi nhắc qua app",
+      "en": "Send reminder via app"
+    },
+    {
+      "id": "hero-app-132",
+      "loai": "Đoạn chữ",
+      "vi": "Giao diện minh hoạ với dữ liệu mẫu.",
+      "en": "Illustrative interface with sample data."
+    }
+  ]
+}

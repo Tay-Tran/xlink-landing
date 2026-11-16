@@ -1,0 +1,29 @@
+{
+  "khoi": "SEO – tiêu đề tab, mô tả khi chia sẻ",
+  "items": [
+    {
+      "id": "tro-ly-noi-001",
+      "loai": "Tiêu đề tab trình duyệt",
+      "vi": "XLINK – Next-Level HR Management | Nền tảng quản trị và phát triển nguồn lực",
+      "en": "XLINK – Next-Level HR Management | The next-generation people management and development platform"
+    },
+    {
+      "id": "seo-mo-ta",
+      "loai": "Mô tả cho Google",
+      "vi": "XLINK kết nối HRM, hiệu suất, năng lực, đào tạo và AI trên một hệ thống duy nhất. Nền tảng quản trị và phát triển nguồn lực thế hệ mới, powered by TOPLINKS.",
+      "en": "XLINK connects HRM, performance, competency, training and AI in one single system. The next-generation people management and development platform, powered by TOPLINKS."
+    },
+    {
+      "id": "seo-og-tieu-de",
+      "loai": "Tiêu đề khi chia sẻ",
+      "vi": "XLINK – Next-Level HR Management",
+      "en": "XLINK – Next-Level HR Management"
+    },
+    {
+      "id": "seo-og-mo-ta",
+      "loai": "Mô tả khi chia sẻ",
+      "vi": "Kết nối công nghệ – Tối ưu nhân tài – Nâng tầm năng suất.",
+      "en": "Connecting technology – Optimizing talent – Elevating productivity."
+    }
+  ]
+}

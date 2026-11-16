@@ -1,0 +1,365 @@
+{
+  "khoi": "Trợ lý AI (khung hỏi thử)",
+  "items": [
+    {
+      "id": "tro-ly-ai-001",
+      "loai": "Đoạn chữ",
+      "vi": "AI & People Analytics",
+      "en": "AI & People Analytics"
+    },
+    {
+      "id": "tro-ly-ai-002",
+      "loai": "Đoạn chữ",
+      "vi": "Trợ lý XLINK tìm thông tin, tổng hợp số liệu và lập bảng, biểu đồ từ dữ liệu của doanh nghiệp, trong đúng phạm vi quyền của người hỏi.",
+      "en": "The XLINK Assistant finds information, summarizes figures and builds tables and charts from your company data, within the asker's access rights."
+    },
+    {
+      "id": "tro-ly-ai-003",
+      "loai": "Link",
+      "vi": "Xem Trợ lý XLINK trong buổi demo <span aria-hidden=\"true\">→</span>",
+      "en": "See the XLINK Assistant in a demo <span aria-hidden=\"true\">→</span>"
+    },
+    {
+      "id": "tro-ly-ai-004",
+      "loai": "Ý / dòng",
+      "vi": "Phân quyền",
+      "en": "Access permissions"
+    },
+    {
+      "id": "tro-ly-ai-005",
+      "loai": "Ý / dòng",
+      "vi": "Sơ đồ tổ chức",
+      "en": "Org chart"
+    },
+    {
+      "id": "tro-ly-ai-006",
+      "loai": "Ý / dòng",
+      "vi": "Hồ sơ nhân viên",
+      "en": "Employee records"
+    },
+    {
+      "id": "tro-ly-ai-007",
+      "loai": "Ý / dòng",
+      "vi": "Bảng công và bảng lương",
+      "en": "Timesheets and payroll sheets"
+    },
+    {
+      "id": "tro-ly-ai-008",
+      "loai": "Ý / dòng",
+      "vi": "Tài liệu nội bộ",
+      "en": "Internal documents"
+    },
+    {
+      "id": "tro-ly-ai-009",
+      "loai": "Chữ",
+      "vi": "Thử ngay",
+      "en": "Try it"
+    },
+    {
+      "id": "tro-ly-ai-010",
+      "loai": "Chữ",
+      "vi": "X",
+      "en": "X"
+    },
+    {
+      "id": "tro-ly-ai-011",
+      "loai": "Chữ đậm",
+      "vi": "Trợ lý XLINK",
+      "en": "XLINK Assistant"
+    },
+    {
+      "id": "tro-ly-ai-012",
+      "loai": "Đoạn chữ",
+      "vi": "Chọn một câu hỏi để thử Trợ lý XLINK…",
+      "en": "Pick a question to try the XLINK Assistant…"
+    },
+    {
+      "id": "tro-ly-ai-013",
+      "loai": "Nút",
+      "vi": "Nhân sự thay đổi thế nào trong 12 tháng?",
+      "en": "How has headcount changed?"
+    },
+    {
+      "id": "tro-ly-ai-014",
+      "loai": "Nút",
+      "vi": "Hợp đồng nào sắp hết hạn trong 30 ngày?",
+      "en": "Which contracts expire soon?"
+    },
+    {
+      "id": "tro-ly-ai-015",
+      "loai": "Nút",
+      "vi": "Ai ở Kho chưa chấm công hôm nay?",
+      "en": "Who hasn't clocked in today?"
+    },
+    {
+      "id": "tro-ly-ai-016",
+      "loai": "Nút",
+      "vi": "Tôi còn bao nhiêu ngày phép?",
+      "en": "How much leave do I have left?"
+    },
+    {
+      "id": "tro-ly-ai-017",
+      "loai": "Nút",
+      "vi": "Hỏi câu khác",
+      "en": "Ask something else"
+    },
+    {
+      "id": "tro-ly-ai-018",
+      "loai": "Đoạn chữ",
+      "vi": "Tổng nhân sự tăng từ <b>384</b> lên <b>430</b> người (+46). Tăng mạnh nhất từ tháng 1 đến tháng 3/2026, đạt đỉnh 439 vào tháng 4, sau đó ổn định quanh 430.",
+      "en": "Headcount grew from <b>384</b> to <b>430</b> (+46). The biggest rise was from January to March 2026, peaking at 439 in April, then holding steady around 430."
+    },
+    {
+      "id": "tro-ly-ai-019",
+      "loai": "Đoạn chữ",
+      "vi": "Tỷ lệ nghỉ việc 12 tháng 2,4%. Nguồn: Hồ sơ nhân viên.",
+      "en": "12-month turnover rate: 2.4%. Source: Employee records."
+    },
+    {
+      "id": "tro-ly-ai-020",
+      "loai": "Đoạn chữ",
+      "vi": "Có <b>4</b> hợp đồng hết hạn trong 30 ngày tới:",
+      "en": "<b>4</b> contracts expire in the next 30 days:"
+    },
+    {
+      "id": "tro-ly-ai-021",
+      "loai": "Tiêu đề bảng",
+      "vi": "Nhân viên",
+      "en": "Employee"
+    },
+    {
+      "id": "tro-ly-ai-022",
+      "loai": "Tiêu đề bảng",
+      "vi": "Loại",
+      "en": "Type"
+    },
+    {
+      "id": "tro-ly-ai-023",
+      "loai": "Tiêu đề bảng",
+      "vi": "Còn lại",
+      "en": "Remaining"
+    },
+    {
+      "id": "tro-ly-ai-024",
+      "loai": "Ô bảng",
+      "vi": "Lê Hải Minh Hồng",
+      "en": "Lê Hải Minh Hồng"
+    },
+    {
+      "id": "tro-ly-ai-025",
+      "loai": "Ô bảng",
+      "vi": "HĐLĐ 1 năm",
+      "en": "1-year contract"
+    },
+    {
+      "id": "tro-ly-ai-026",
+      "loai": "Ô bảng",
+      "vi": "8 ngày",
+      "en": "8 days"
+    },
+    {
+      "id": "tro-ly-ai-027",
+      "loai": "Ô bảng",
+      "vi": "Cáp Phạm Bích Liên",
+      "en": "Cáp Phạm Bích Liên"
+    },
+    {
+      "id": "tro-ly-ai-028",
+      "loai": "Ô bảng",
+      "vi": "HĐLĐ 1 năm",
+      "en": "1-year contract"
+    },
+    {
+      "id": "tro-ly-ai-029",
+      "loai": "Ô bảng",
+      "vi": "18 ngày",
+      "en": "18 days"
+    },
+    {
+      "id": "tro-ly-ai-030",
+      "loai": "Ô bảng",
+      "vi": "Trương Duy Triển",
+      "en": "Trương Duy Triển"
+    },
+    {
+      "id": "tro-ly-ai-031",
+      "loai": "Ô bảng",
+      "vi": "HĐLĐ 3 năm",
+      "en": "3-year contract"
+    },
+    {
+      "id": "tro-ly-ai-032",
+      "loai": "Ô bảng",
+      "vi": "20 ngày",
+      "en": "20 days"
+    },
+    {
+      "id": "tro-ly-ai-033",
+      "loai": "Ô bảng",
+      "vi": "Lý Lâm Minh Hồng",
+      "en": "Lý Lâm Minh Hồng"
+    },
+    {
+      "id": "tro-ly-ai-034",
+      "loai": "Ô bảng",
+      "vi": "HĐLĐ 1 năm",
+      "en": "1-year contract"
+    },
+    {
+      "id": "tro-ly-ai-035",
+      "loai": "Ô bảng",
+      "vi": "22 ngày",
+      "en": "22 days"
+    },
+    {
+      "id": "tro-ly-ai-036",
+      "loai": "Chữ",
+      "vi": "Mở danh sách tái ký",
+      "en": "Open renewal list"
+    },
+    {
+      "id": "tro-ly-ai-037",
+      "loai": "Đoạn chữ",
+      "vi": "Kho có <b>3</b> người có lịch ca sáng nhưng chưa chấm công:",
+      "en": "<b>3</b> people at the Warehouse are on the morning shift but have not clocked in:"
+    },
+    {
+      "id": "tro-ly-ai-038",
+      "loai": "Chữ",
+      "vi": "B",
+      "en": "B"
+    },
+    {
+      "id": "tro-ly-ai-039",
+      "loai": "Chữ đậm",
+      "vi": "Lê Văn Bình",
+      "en": "Lê Văn Bình"
+    },
+    {
+      "id": "tro-ly-ai-040",
+      "loai": "Chữ nhỏ",
+      "vi": "Ca 1 sản xuất, 06:00",
+      "en": "Production shift 1, 06:00"
+    },
+    {
+      "id": "tro-ly-ai-041",
+      "loai": "Chữ",
+      "vi": "T",
+      "en": "T"
+    },
+    {
+      "id": "tro-ly-ai-042",
+      "loai": "Chữ đậm",
+      "vi": "Mai Thanh Tú",
+      "en": "Mai Thanh Tú"
+    },
+    {
+      "id": "tro-ly-ai-043",
+      "loai": "Chữ nhỏ",
+      "vi": "Ca 1 sản xuất, 06:00",
+      "en": "Production shift 1, 06:00"
+    },
+    {
+      "id": "tro-ly-ai-044",
+      "loai": "Chữ",
+      "vi": "K",
+      "en": "K"
+    },
+    {
+      "id": "tro-ly-ai-045",
+      "loai": "Chữ đậm",
+      "vi": "Phạm Quốc Khánh",
+      "en": "Phạm Quốc Khánh"
+    },
+    {
+      "id": "tro-ly-ai-046",
+      "loai": "Chữ nhỏ",
+      "vi": "Ca hành chính, 08:00",
+      "en": "Office shift, 08:00"
+    },
+    {
+      "id": "tro-ly-ai-047",
+      "loai": "Chữ",
+      "vi": "Gửi nhắc qua app",
+      "en": "Send reminder via app"
+    },
+    {
+      "id": "tro-ly-ai-048",
+      "loai": "Đoạn chữ",
+      "vi": "Bạn còn <b>8,5 ngày</b> phép năm 2026: được hưởng 12 ngày, đã nghỉ 3,5 ngày. Phép năm trước chuyển sang hết hạn ngày 31/03.",
+      "en": "You have <b>8.5 days</b> of 2026 annual leave left: 12 days entitled, 3.5 days taken. Leave carried over from last year expires on 31/03."
+    },
+    {
+      "id": "tro-ly-ai-049",
+      "loai": "Đoạn chữ",
+      "vi": "Nguồn: Chấm công › Nghỉ phép, quy định nghỉ phép của công ty.",
+      "en": "Source: Time & attendance › Leave, company leave policy."
+    },
+    {
+      "id": "tro-ly-ai-050",
+      "loai": "Chữ",
+      "vi": "Tạo đơn nghỉ phép",
+      "en": "Create leave request"
+    },
+    {
+      "id": "tro-ly-ai-051",
+      "loai": "Chữ đậm",
+      "vi": "Số liệu tức thì",
+      "en": "Real-time figures"
+    },
+    {
+      "id": "tro-ly-ai-052",
+      "loai": "Chữ",
+      "vi": "Từ quân số đến số dư phép",
+      "en": "From headcount to leave balances"
+    },
+    {
+      "id": "tro-ly-ai-053",
+      "loai": "Chữ đậm",
+      "vi": "Kết nối mọi phân hệ",
+      "en": "Connected to every module"
+    },
+    {
+      "id": "tro-ly-ai-054",
+      "loai": "Chữ",
+      "vi": "Hồ sơ, công, lương, KPI trong một nơi",
+      "en": "Records, timesheets, payroll, KPIs in one place"
+    },
+    {
+      "id": "tro-ly-ai-055",
+      "loai": "Chữ đậm",
+      "vi": "Nhân viên tự tra cứu",
+      "en": "Employee self-service"
+    },
+    {
+      "id": "tro-ly-ai-056",
+      "loai": "Chữ",
+      "vi": "Hỏi trên app, không cần nhắn HR",
+      "en": "Ask in the app, no need to message HR"
+    },
+    {
+      "id": "tro-ly-ai-057",
+      "loai": "Chữ đậm",
+      "vi": "Báo cáo xuất Excel",
+      "en": "Excel reports"
+    },
+    {
+      "id": "tro-ly-ai-058",
+      "loai": "Chữ",
+      "vi": "Bảng và biểu đồ gửi đi ngay",
+      "en": "Tables and charts, ready to send"
+    },
+    {
+      "id": "tro-ly-ai-059",
+      "loai": "Chữ đậm",
+      "vi": "Đúng phạm vi quyền",
+      "en": "Respects access permissions"
+    },
+    {
+      "id": "tro-ly-ai-060",
+      "loai": "Chữ",
+      "vi": "Mỗi người chỉ thấy phần mình",
+      "en": "Everyone sees only their own scope"
+    }
+  ]
+}
