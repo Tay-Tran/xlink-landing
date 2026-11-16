@@ -9,6 +9,12 @@
   <link href="config.yml" type="text/yaml" rel="cms-config-url">
 </head>
 <body>
+  <script>
+    // when the GitHub login window saves the session (see functions/api/callback.js), reload into the CMS
+    window.addEventListener("storage", function (e) {
+      if (e.key === "decap-cms-user" && e.newValue) window.location.reload();
+    });
+  </script>
   <script src="https://unpkg.com/decap-cms@3.17.3/dist/decap-cms.js"></script>
 </body>
 </html>
