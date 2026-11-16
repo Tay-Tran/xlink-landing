@@ -18,10 +18,19 @@ export async function onRequestGet({ request, env }) {
 
 function page(status, content) {
   const msg = `authorization:github:${status}:${JSON.stringify(content)}`;
-  const html = `<!doctype html><meta charset="utf-8"><title>Đăng nhập</title><p>${status === "success" ? "Đăng nhập thành công, đang quay lại trang quản trị…" : "Đăng nhập không thành công."}</p>
+  const ok = status === "success";
+  const html = `<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Đăng nhập</title>
+<p style="font:16px/1.5 system-ui,sans-serif;padding:24px">${ok ? "Đăng nhập thành công, đang mở trang quản trị…" : "Đăng nhập không thành công: " + String(content.message || "").replace(/[<>&]/g, "") + ' <a href="/admin/">Thử lại</a>'}</p>
 <script>
 (function () {
   var msg = ${JSON.stringify(msg)};
+  var ok = ${ok ? "true" : "false"};
+  // 1) Save the session where Decap CMS looks for it (same site), so /admin works even when GitHub
+  //    cut the link between this popup and the /admin window (Cross-Origin-Opener-Policy).
+  if (ok) {
+    try { localStorage.setItem("decap-cms-user", JSON.stringify({ token: ${JSON.stringify(content.token || "")}, backendName: "github" })); } catch (e) {}
+  }
+  // 2) Classic Decap handshake when the opener is still reachable.
   function receive(e) {
     if (e.origin !== window.location.origin) return; // only hand the token to /admin on this same site
     window.opener.postMessage(msg, e.origin);
@@ -29,7 +38,12 @@ function page(status, content) {
     setTimeout(function () { window.close(); }, 300);
   }
   window.addEventListener("message", receive, false);
-  if (window.opener) window.opener.postMessage("authorizing:github", "*");
+  if (window.opener) window.opener.postMessage("authorizing:github", window.location.origin);
+  // 3) No opener: close this window if possible, otherwise open /admin here.
+  if (ok) setTimeout(function () {
+    try { window.close(); } catch (e) {}
+    setTimeout(function () { window.location.replace("/admin/"); }, 400);
+  }, window.opener ? 2500 : 300);
 })();
 </script>`;
   return new Response(html, { headers: { "Content-Type": "text/html; charset=utf-8", "Cache-Control": "no-store", "Set-Cookie": "decap_oauth_state=; Path=/api; Max-Age=0" } });
