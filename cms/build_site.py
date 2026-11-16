@@ -76,6 +76,68 @@ def static_walk(el, missing):
         else:
             static_walk(c, missing)
 
+# ---------- images (content/15-hinh-anh.json, edited in /admin) ----------
+UPLOADS = "assets/img/uploads/"
+MAXW = {"shot": 1600, "tile": 440, "wide": 1600, "og": 1200, "logo": 600}
+_img_cache, used_uploads = {}, set()
+
+def image_for(value, kind):
+    """Return (relative src, width, height or None). Uploaded photos are resized and saved as WebP in dist."""
+    rel = value.strip().lstrip("/")
+    key = (rel, kind)
+    if key in _img_cache:
+        return _img_cache[key]
+    src_path = os.path.join(ROOT, rel)
+    out = (rel, None, None)
+    if not os.path.exists(src_path):
+        print("  WARNING: missing image", rel)
+    else:
+        ext = os.path.splitext(rel)[1].lower()
+        try:
+            from PIL import Image
+        except ImportError:
+            Image = None
+        if Image and ext in (".png", ".jpg", ".jpeg", ".webp", ".gif"):
+            im = Image.open(src_path)
+            w, h = im.size
+            if rel.startswith(UPLOADS):
+                stem = os.path.splitext(os.path.basename(rel))[0]
+                mw = MAXW.get(kind, 1600)
+                if w > mw:
+                    im = im.resize((mw, round(h * mw / w)), Image.LANCZOS); w, h = im.size
+                os.makedirs(os.path.join(DIST, UPLOADS, "opt"), exist_ok=True)
+                if kind == "logo":
+                    name = f"{stem}-{kind}.png"; im.save(os.path.join(DIST, UPLOADS, "opt", name), optimize=True)
+                elif kind == "og":
+                    name = f"{stem}-{kind}.jpg"; im.convert("RGB").save(os.path.join(DIST, UPLOADS, "opt", name), quality=85, optimize=True)
+                else:
+                    name = f"{stem}-{kind}.webp"; im.save(os.path.join(DIST, UPLOADS, "opt", name), "WEBP", quality=80, method=6)
+                out = (UPLOADS + "opt/" + name, w, h)
+            else:
+                out = (rel, w, h)
+        elif rel.startswith(UPLOADS):
+            used_uploads.add(rel)  # e.g. SVG logo: copied as is
+    _img_cache[key] = out
+    return out
+
+def apply_images(soup):
+    for el in soup.select("[data-ci]"):
+        it = C.get(el["data-ci"])
+        if not it or not it.get("anh"):
+            continue
+        orig = el.get("src", "")
+        src, w, h = image_for(it["anh"], it.get("loai", "shot"))
+        if src == orig:
+            continue
+        el["src"] = src
+        if w and h and el.has_attr("height") and it.get("loai") == "logo":
+            el["width"] = str(round(int(el["height"]) * w / h))  # keep the logo's display height
+    for m in soup.select("[data-ci-attr]"):
+        attr, cid = m["data-ci-attr"].split(":", 1)
+        it = C.get(cid)
+        if it and it.get("anh"):
+            m[attr] = image_for(it["anh"], it.get("loai", "og"))[0]
+
 def build(lang):
     soup = BeautifulSoup(TEMPLATE, "html.parser")
     missing = []
@@ -103,8 +165,9 @@ def build(lang):
                 a["aria-current"] = "true"
             elif a.has_attr("aria-current"):
                 del a["aria-current"]
-    for el in soup.select("[data-c], [data-cl], [data-ct], [data-c-attr]"):
-        for a in ("data-c", "data-cl", "data-ct", "data-c-attr"):
+    apply_images(soup)
+    for el in soup.select("[data-c], [data-cl], [data-ct], [data-c-attr], [data-ci], [data-ci-attr]"):
+        for a in ("data-c", "data-cl", "data-ct", "data-c-attr", "data-ci", "data-ci-attr"):
             if el.has_attr(a):
                 del el[a]
     return str(soup), missing
@@ -119,7 +182,12 @@ for lang, name in (("vi", "vi.html"), ("en", "index.html")):
 for d in ("assets", "admin"):
     src = os.path.join(ROOT, d)
     if os.path.isdir(src):
-        shutil.copytree(src, os.path.join(DIST, d), dirs_exist_ok=True)
+        # original uploads are not published (only the resized copies in uploads/opt and files used as is)
+        shutil.copytree(src, os.path.join(DIST, d), dirs_exist_ok=True,
+                        ignore=(lambda dirpath, names: [n for n in names if os.path.normpath(os.path.join(dirpath, n)) == os.path.normpath(os.path.join(ROOT, "assets", "img", "uploads"))]))
+for rel in used_uploads:
+    os.makedirs(os.path.dirname(os.path.join(DIST, rel)), exist_ok=True)
+    shutil.copy(os.path.join(ROOT, rel), os.path.join(DIST, rel))
 for f in ("_headers",):
     if os.path.exists(os.path.join(ROOT, f)):
         shutil.copy(os.path.join(ROOT, f), DIST)

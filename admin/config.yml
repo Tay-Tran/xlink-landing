@@ -11,12 +11,12 @@ backend:
 local_backend: true
 locale: vi
 publish_mode: simple
-media_folder: assets/img/uploads
+media_folder: assets/img/uploads   # ảnh chị tải lên nằm ở đây (bản gốc); trang dùng bản đã nén
 public_folder: /assets/img/uploads
 collections:
   - name: noi-dung
     label: Nội dung trang
-    description: "Sửa chữ tiếng Việt và tiếng Anh theo từng khối. Giữ nguyên các thẻ như <b>…</b>, <br>. Bấm Publish để lưu, trang tự cập nhật sau 1–2 phút."
+    description: "Sửa chữ tiếng Việt và tiếng Anh theo từng khối, đổi ảnh ở khối Hình ảnh. Giữ nguyên các thẻ như <b>…</b>, <br>. Bấm Publish để lưu, trang tự cập nhật sau 1–2 phút."
     editor:
       preview: false
     files:
@@ -290,3 +290,21 @@ collections:
               - { label: "Loại", name: "loai", widget: "hidden" }
               - { label: "Tiếng Việt", name: "vi", widget: "text" }
               - { label: "English", name: "en", widget: "text", required: false, hint: "Để trống thì trang tiếng Anh dùng chữ tiếng Việt" }
+      - name: "15-hinh-anh"
+        label: "Hình ảnh – logo, ảnh chụp màn hình, ảnh chia sẻ"
+        file: "content/15-hinh-anh.json"
+        fields:
+          - { label: "Khối", name: "khoi", widget: "hidden" }
+          - label: "Các ảnh"
+            name: "items"
+            widget: "list"
+            allow_add: false
+            allow_remove: false
+            allow_reorder: false
+            collapsed: true
+            summary: "{{fields.vi_tri}}"
+            fields:
+              - { label: "Mã", name: "id", widget: "hidden" }
+              - { label: "Vị trí", name: "vi_tri", widget: "hidden" }
+              - { label: "Loại", name: "loai", widget: "hidden" }
+              - { label: "Ảnh", name: "anh", widget: "image", choose_url: false, hint: "Bấm để chọn ảnh từ máy. Ảnh được tự thu nhỏ và nén khi đưa lên trang. Logo nên là PNG hoặc SVG nền trong suốt." }

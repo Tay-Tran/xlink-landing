@@ -1,0 +1,155 @@
+{
+  "khoi": "Hình ảnh",
+  "items": [
+    {
+      "id": "logo-menu",
+      "vi_tri": "Logo ở menu (nền sáng) – PNG/SVG nền trong",
+      "loai": "logo",
+      "anh": "/assets/img/brand/xlink-wordmark.png"
+    },
+    {
+      "id": "logo-menu-toi",
+      "vi_tri": "Logo ở menu khi cuộn qua khối tối (chữ trắng) – PNG/SVG nền trong",
+      "loai": "logo",
+      "anh": "/assets/img/brand/xlink-wordmark-white.png"
+    },
+    {
+      "id": "logo-chan-trang",
+      "vi_tri": "Logo ở chân trang (chữ trắng) – PNG/SVG nền trong",
+      "loai": "logo",
+      "anh": "/assets/img/brand/xlink-logo-white.png"
+    },
+    {
+      "id": "icon-tro-ly",
+      "vi_tri": "Biểu tượng nút Trợ lý (vuông, nền trong)",
+      "loai": "logo",
+      "anh": "/assets/img/brand/xlink-mark.png"
+    },
+    {
+      "id": "anh-chia-se",
+      "vi_tri": "Ảnh hiện khi chia sẻ link lên Zalo/Facebook (nên 1200×630)",
+      "loai": "og",
+      "anh": "/assets/img/dashboard.webp"
+    },
+    {
+      "id": "chuc-nang-org",
+      "vi_tri": "12 chức năng · ảnh chụp Sơ đồ tổ chức (ảnh ngang, khoảng 1280×530)",
+      "loai": "shot",
+      "anh": "/assets/img/org.webp"
+    },
+    {
+      "id": "chuc-nang-timesheet",
+      "vi_tri": "12 chức năng · ảnh chụp Bảng công (ảnh ngang, khoảng 1280×530)",
+      "loai": "shot",
+      "anh": "/assets/img/timesheet.webp"
+    },
+    {
+      "id": "chuc-nang-payroll",
+      "vi_tri": "12 chức năng · ảnh chụp Tiền lương (ảnh ngang, khoảng 1280×530)",
+      "loai": "shot",
+      "anh": "/assets/img/payroll.webp"
+    },
+    {
+      "id": "chuc-nang-recruit",
+      "vi_tri": "12 chức năng · ảnh chụp Tuyển dụng (ảnh ngang, khoảng 1280×530)",
+      "loai": "shot",
+      "anh": "/assets/img/recruit.webp"
+    },
+    {
+      "id": "chuc-nang-contract",
+      "vi_tri": "12 chức năng · ảnh chụp Hồ sơ & hợp đồng (ảnh ngang, khoảng 1280×530)",
+      "loai": "shot",
+      "anh": "/assets/img/contract.webp"
+    },
+    {
+      "id": "chuc-nang-ninebox",
+      "vi_tri": "12 chức năng · ảnh chụp Ma trận 9-Box (ảnh ngang, khoảng 1280×530)",
+      "loai": "shot",
+      "anh": "/assets/img/ninebox.webp"
+    },
+    {
+      "id": "chuc-nang-dashboard",
+      "vi_tri": "12 chức năng · ảnh chụp Tổng quan (ảnh ngang, khoảng 1280×530)",
+      "loai": "shot",
+      "anh": "/assets/img/dashboard.webp"
+    },
+    {
+      "id": "chuc-nang-ai",
+      "vi_tri": "12 chức năng · ảnh chụp Trợ lý AI (ảnh ngang, khoảng 1280×530)",
+      "loai": "shot",
+      "anh": "/assets/img/ai.webp"
+    },
+    {
+      "id": "dai-anh-dashboard",
+      "vi_tri": "Dải ảnh chạy ngang · Tổng quan (ảnh ngang nhỏ, khoảng 440×276)",
+      "loai": "tile",
+      "anh": "/assets/img/tiles/dashboard.webp"
+    },
+    {
+      "id": "dai-anh-hr",
+      "vi_tri": "Dải ảnh chạy ngang · Hồ sơ nhân sự (ảnh ngang nhỏ, khoảng 440×276)",
+      "loai": "tile",
+      "anh": "/assets/img/tiles/hr.webp"
+    },
+    {
+      "id": "dai-anh-contract",
+      "vi_tri": "Dải ảnh chạy ngang · Hợp đồng lao động (ảnh ngang nhỏ, khoảng 440×276)",
+      "loai": "tile",
+      "anh": "/assets/img/tiles/contract.webp"
+    },
+    {
+      "id": "dai-anh-timesheet",
+      "vi_tri": "Dải ảnh chạy ngang · Bảng công (ảnh ngang nhỏ, khoảng 440×276)",
+      "loai": "tile",
+      "anh": "/assets/img/tiles/timesheet.webp"
+    },
+    {
+      "id": "dai-anh-shifts",
+      "vi_tri": "Dải ảnh chạy ngang · Xếp ca (ảnh ngang nhỏ, khoảng 440×276)",
+      "loai": "tile",
+      "anh": "/assets/img/tiles/shifts.webp"
+    },
+    {
+      "id": "dai-anh-payroll",
+      "vi_tri": "Dải ảnh chạy ngang · Tiền lương (ảnh ngang nhỏ, khoảng 440×276)",
+      "loai": "tile",
+      "anh": "/assets/img/tiles/payroll.webp"
+    },
+    {
+      "id": "dai-anh-recruit",
+      "vi_tri": "Dải ảnh chạy ngang · Tuyển dụng (ảnh ngang nhỏ, khoảng 440×276)",
+      "loai": "tile",
+      "anh": "/assets/img/tiles/recruit.webp"
+    },
+    {
+      "id": "dai-anh-ninebox",
+      "vi_tri": "Dải ảnh chạy ngang · Ma trận 9-Box (ảnh ngang nhỏ, khoảng 440×276)",
+      "loai": "tile",
+      "anh": "/assets/img/tiles/ninebox.webp"
+    },
+    {
+      "id": "dai-anh-recog",
+      "vi_tri": "Dải ảnh chạy ngang · Vinh danh (ảnh ngang nhỏ, khoảng 440×276)",
+      "loai": "tile",
+      "anh": "/assets/img/tiles/recog.webp"
+    },
+    {
+      "id": "dai-anh-ai",
+      "vi_tri": "Dải ảnh chạy ngang · Trợ lý AI (ảnh ngang nhỏ, khoảng 440×276)",
+      "loai": "tile",
+      "anh": "/assets/img/tiles/ai.webp"
+    },
+    {
+      "id": "dai-anh-ctrlk",
+      "vi_tri": "Dải ảnh chạy ngang · Tìm nhanh Ctrl K (ảnh ngang nhỏ, khoảng 440×276)",
+      "loai": "tile",
+      "anh": "/assets/img/tiles/ctrlk.webp"
+    },
+    {
+      "id": "nen-chan-trang",
+      "vi_tri": "Ảnh nền mờ ở chân trang (ảnh ngang lớn)",
+      "loai": "wide",
+      "anh": "/assets/img/dashboard.webp"
+    }
+  ]
+}
