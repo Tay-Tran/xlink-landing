@@ -11,6 +11,10 @@ Bản đang chạy: https://v3.xlink-landing.pages.dev · Trang quản trị: ht
 3. Sửa ô **Tiếng Việt** và ô **English**. Để trống ô English thì trang tiếng Anh dùng chữ tiếng Việt.
 4. Bấm **Công bố → Công bố ngay**. Trang tự cập nhật sau khoảng 1–2 phút.
 
+Đổi ảnh: mở khối **"Hình ảnh – logo, ảnh chụp màn hình, ảnh chia sẻ"**, bấm mũi tên ở ảnh muốn đổi → **Chọn hình khác** → chọn file từ máy → **Công bố → Công bố ngay**. Ảnh được tự thu nhỏ và nén (WebP) khi đưa lên trang; bản gốc chỉ lưu trong repo. Bấm "Gỡ bỏ hình" thì trang dùng lại ảnh gốc.
+- Đổi được 25 vị trí: 3 logo, biểu tượng Trợ lý, ảnh chia sẻ link, 8 ảnh chụp ở khối 12 chức năng, 11 ảnh của dải chạy ngang, ảnh nền chân trang.
+- Giao diện app ở đầu trang và các khung minh hoạ (KPI, 9-Box, IDP…) là hình vẽ bằng code: sửa được chữ, không thay bằng ảnh.
+
 Lưu ý khi sửa:
 - Giữ nguyên các thẻ như `<b>…</b>`, `<br>` nếu đoạn chữ có sẵn.
 - Trang quản trị chỉ sửa **chữ** (779 đoạn, gồm tiêu đề tab và mô tả khi chia sẻ). Đổi bố cục, thêm khối, đổi hình minh hoạ vẫn cần sửa code.
@@ -20,10 +24,11 @@ Lưu ý khi sửa:
 
 ```
 src/page.html        Khung trang (HTML) – mỗi đoạn chữ sửa được có data-c="mã"
-content/*.json       Nội dung sửa được, 15 khối, mỗi đoạn có "vi" và "en"  ← trang quản trị ghi vào đây
+content/*.json       Nội dung sửa được: 15 khối chữ ("vi", "en") + 15-hinh-anh.json (ảnh)  ← trang quản trị ghi vào đây
+assets/img/uploads/  Ảnh gốc tải lên từ trang quản trị
 i18n/*.json          Bản dịch cho vài đoạn cố định (có biểu tượng giữa câu) và chữ trong thuộc tính alt/aria
 cms/build_site.py    Ghép khung + nội dung → dist/vi.html, dist/index.html, chép assets/, admin/, _headers
-cms/extract_content.py  (dùng một lần) tách nội dung từ trang cũ ra content/
+cms/extract_content.py, cms/add_images.py  (dùng một lần) tách chữ và ảnh từ trang cũ ra content/
 admin/               Trang quản trị Decap CMS (index.html, config.yml)
 functions/api/       Đăng nhập GitHub cho trang quản trị (Cloudflare Pages Functions)
 .github/workflows/   Mỗi lần lưu trên /admin: tự dựng lại và đưa lên Cloudflare
