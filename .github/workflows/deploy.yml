@@ -3,6 +3,7 @@ name: Build and deploy XLINK landing page
 on:
   push:
     branches: [main]
+    paths-ignore: ["README.md", "docs/**"]   # README and screenshots do not change the site
   workflow_dispatch:
 concurrency:
   group: deploy-v3

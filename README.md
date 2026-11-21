@@ -1,4 +1,46 @@
-# XLINK – Landing page v3 (có trang quản trị nội dung /admin)
+# XLINK – Bilingual SaaS landing page with a Git-based CMS
+
+Landing page for **XLINK – Next-Level HR Management**, an HRM and talent-management SaaS by TOPLINKS, launched at TECH × HR 2027. Hand-coded from the client's content brief, bilingual (English default, Vietnamese), with a content admin so the client edits text and images without touching code.
+
+**Live demo:** [English](https://v3.xlink-landing.pages.dev) · [Tiếng Việt](https://v3.xlink-landing.pages.dev/vi)
+
+![XLINK landing page – hero with an animated product mockup](docs/screenshot-hero.jpg)
+
+| 12 feature groups: toggle + accordion + large visual | One system, four roles: role switcher |
+|---|---|
+| ![Feature groups](docs/screenshot-features.jpg) | ![Roles](docs/screenshot-roles.jpg) |
+
+## Highlights
+
+- **Hand-coded, no framework.** Static HTML, CSS and vanilla JavaScript; responsive from 360 px phones to wide screens; `prefers-reduced-motion` support; ARIA tabs and accordions usable with the keyboard.
+- **Interactive product storytelling.** Auto-playing app mockup with 6 animated screens, card carousel, accordion whose visual moves under the open item on phones, role switcher, clickable 9-Box matrix, scripted AI-assistant demo and a floating chat assistant.
+- **Bilingual from one template.** 779 text units live in JSON (`vi` / `en`); a Python build step (BeautifulSoup) generates both pages and checks that nothing is left untranslated.
+- **Git-based CMS for a non-technical client.** [Decap CMS](https://decapcms.org) at `/admin`: edit text in both languages and replace 25 images (logos, screenshots, share image). Every save is a commit; GitHub Actions rebuilds and deploys to Cloudflare Pages in under a minute.
+- **Image pipeline.** Uploaded images are resized and compressed to WebP (Pillow) at build time; only the optimized copies are published.
+- **Serverless OAuth.** GitHub login for the CMS runs on Cloudflare Pages Functions, with a state-cookie CSRF check and a fallback for popups whose `window.opener` is cut by GitHub's Cross-Origin-Opener-Policy.
+- **Tested like a user.** Playwright scripts click every interactive area on desktop and on a touch phone viewport, in both languages (navigation, form validation, tabs, carousels, assistant, language switch, no horizontal overflow).
+
+<p align="center"><img src="docs/screenshot-mobile.jpg" alt="Mobile: the visual opens right under the selected feature" width="300"></p>
+
+## Tech stack
+
+HTML · CSS · JavaScript · Python (BeautifulSoup, Pillow) · Decap CMS · Cloudflare Pages + Pages Functions · GitHub Actions · Playwright
+
+## How it works
+
+```
+content/*.json ──┐                        ┌─> dist/index.html (EN)
+src/page.html  ──┼─ cms/build_site.py ────┼─> dist/vi.html    (VI)
+i18n/*.json    ──┘   (+ image resize)     └─> dist/assets, admin/
+        ▲                                              │
+  /admin (Decap CMS) ── commit ──> GitHub ── Actions ──┘──> Cloudflare Pages
+```
+
+> Product name, logo and copy belong to TOPLINKS / XLINK. Names and figures shown inside the product mockups are sample data.
+
+---
+
+# Hướng dẫn vận hành (tiếng Việt, dành cho TOPLINKS)
 
 Trang dựng theo file "XLINK-NOI DUNG LANDING PAGE.docx": Hero · Thách thức · Giải pháp (3 trụ cột) · 12 nhóm chức năng · Trợ lý AI · Chu trình nhân tài · 4 vai trò · Vì sao XLINK · Triển khai · Đăng ký. Tiếng Anh là ngôn ngữ mặc định (`index.html`), tiếng Việt ở `vi.html`.
 
@@ -17,7 +59,7 @@ Bản đang chạy: https://v3.xlink-landing.pages.dev · Trang quản trị: ht
 
 Lưu ý khi sửa:
 - Giữ nguyên các thẻ như `<b>…</b>`, `<br>` nếu đoạn chữ có sẵn.
-- Trang quản trị chỉ sửa **chữ** (779 đoạn, gồm tiêu đề tab và mô tả khi chia sẻ). Đổi bố cục, thêm khối, đổi hình minh hoạ vẫn cần sửa code.
+- Trang quản trị sửa **chữ** (779 đoạn, gồm tiêu đề tab và mô tả khi chia sẻ) và **25 ảnh**. Đổi bố cục, thêm khối, đổi hình minh hoạ vẽ bằng code vẫn cần sửa code.
 - Một số chữ nằm trong code JavaScript, chưa sửa được trên trang quản trị: thông báo của form, giải thích từng ô 9-Box, chữ trong ảnh app chạy tự động.
 
 ## Cách trang được dựng
@@ -46,7 +88,7 @@ Thử trang quản trị trên máy (ghi thẳng vào content/, không cần Git
 
 ## Thiết lập một lần để /admin chạy trên mạng
 
-1. **Repo GitHub** (riêng tư) chứa thư mục này, nhánh `main`. Tên repo đã điền trong `admin/config.yml`: `Tay-Tran/xlink-landing`.
+1. **Repo GitHub** chứa thư mục này, nhánh `main`. Tên repo đã điền trong `admin/config.yml`: `Tay-Tran/xlink-landing`.
 2. **GitHub OAuth App** (GitHub → Settings → Developer settings → OAuth Apps → New):
    - Homepage URL: `https://v3.xlink-landing.pages.dev`
    - Authorization callback URL: `https://v3.xlink-landing.pages.dev/api/callback`
